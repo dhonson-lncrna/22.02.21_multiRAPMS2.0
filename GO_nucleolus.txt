@@ -1,0 +1,1317 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1922721	1700009N14Rik	RIKEN cDNA 1700009N14 gene	4		nucleolus			ISO	P62826 	J:164563 	
+MGI:1922764	1700013H16Rik	RIKEN cDNA 1700013H16 gene	X		nucleolus	is a part of spermatocyte		IDA		J:173957 	
+MGI:1925709	1700057G04Rik	RIKEN cDNA 1700057G04 gene	9		nucleolus			ISO	O15162 	J:164563 	
+MGI:1919525	2200002D01Rik	RIKEN cDNA 2200002D01 gene	7		nucleolus			IDA		J:82429 	
+MGI:3041172	9930104L06Rik	RIKEN cDNA 9930104L06 gene	4		nucleolus			ISO	Q9NX04 	J:164563 	
+MGI:1929608	Aatf	apoptosis antagonizing transcription factor	11		nucleolus			IBA	PTN000399850 	J:265628 	
+MGI:1929608	Aatf	apoptosis antagonizing transcription factor	11		nucleolus			IDA		J:65741 	
+MGI:1929608	Aatf	apoptosis antagonizing transcription factor	11		nucleolus			ISO	Q9NY61 	J:164563 	
+MGI:1351667	Abcb8	ATP-binding cassette, sub-family B (MDR/TAP), member 8	5		nucleolus			ISO	Q9NUT2 	J:164563 	
+MGI:2443111	Abcc4	ATP-binding cassette, sub-family C (CFTR/MRP), member 4	14		nucleolus			ISO	O15439 	J:164563 	
+MGI:1923741	Abhd14b	abhydrolase domain containing 14b	9		nucleolus			ISO	Q96IU4 	J:164563 	
+MGI:87859	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	2		nucleolus			ISO	P00519 	J:73065 	
+MGI:1353636	Abt1	activator of basal transcription 1	13		nucleolus			IBA	PTN000267771 	J:265628 	
+MGI:1933148	Abtb1	ankyrin repeat and  BTB (POZ) domain containing 1	6		nucleolus			ISO	Q969K4 	J:164563 	
+MGI:108451	Acaca	acetyl-Coenzyme A carboxylase alpha	11		fibrillar center			ISO	Q13085 	J:164563 	
+MGI:895149	Acadvl	acyl-Coenzyme A dehydrogenase, very long chain	11		nucleolus			ISO	P49748 	J:164563 	
+MGI:1891824	Acin1	apoptotic chromatin condensation inducer 1	14		nucleolus			IDA		J:64959 	
+MGI:1919129	Acsl5	acyl-CoA synthetase long-chain family member 5	19		nucleolus			ISO	Q9ULC5 	J:164563 	
+MGI:103258	Adad1	adenosine deaminase domain containing 1 (testis specific)	3		nucleolus			IBA	PTN000098822 	J:265628 	
+MGI:1923023	Adad2	adenosine deaminase domain containing 2	8		nucleolus			IBA	PTN000098822 	J:265628 	
+MGI:1889575	Adar	adenosine deaminase, RNA-specific	3		nucleolus			IBA	PTN000098822 	J:265628 	
+MGI:1889575	Adar	adenosine deaminase, RNA-specific	3		nucleolus		PR:Q99MU3-3	IDA		J:201723 	
+MGI:1889575	Adar	adenosine deaminase, RNA-specific	3		nucleolus		PR:Q99MU3-4	IDA		J:201723 	
+MGI:1889575	Adar	adenosine deaminase, RNA-specific	3		nucleolus	is a part of fibroblast		IDA		J:87714 	
+MGI:1889575	Adar	adenosine deaminase, RNA-specific	3		nucleolus			ISO	RGD:71099 	J:155856 	
+MGI:1889575	Adar	adenosine deaminase, RNA-specific	3		nucleolus			ISO	P55265 	J:164563 	
+MGI:891999	Adarb1	adenosine deaminase, RNA-specific, B1	10		nucleolus			IBA	PTN000098822 	J:265628 	
+MGI:891999	Adarb1	adenosine deaminase, RNA-specific, B1	10		nucleolus			ISO	RGD:2033 	J:155856 	
+MGI:891999	Adarb1	adenosine deaminase, RNA-specific, B1	10		nucleolus			ISO	P78563 	J:164563 	
+MGI:2151118	Adarb2	adenosine deaminase, RNA-specific, B2	13		nucleolus			IBA	PTN000098822 	J:265628 	
+MGI:1915298	Aen	apoptosis enhancing nuclease	7		nucleolus			ISO	Q8WTP8 	J:164563 	
+MGI:2136171	Aff4	AF4/FMR2 family, member 4	11		fibrillar center			ISO	Q9UHB7 	J:164563 	
+MGI:893592	Ager	advanced glycosylation end product-specific receptor	17		fibrillar center			ISO	Q15109 	J:164563 	
+MGI:1196345	Agpat5	1-acylglycerol-3-phosphate O-acyltransferase 5 (lysophosphatidic acid acyltransferase, epsilon)	8		nucleolus			ISO	Q9NUQ2 	J:164563 	
+MGI:2443065	Agps	alkylglycerone phosphate synthase	2		nucleolus			ISO	O00116 	J:164563 	
+MGI:2159437	Agtpbp1	ATP/GTP binding protein 1	13		nucleolus			ISO	Q9UPW5 	J:164563 	
+MGI:1928488	Akap8	A kinase (PRKA) anchor protein 8	17		nucleolus			ISO	O43823 	J:164563 	
+MGI:2684060	Akap11	A kinase (PRKA) anchor protein 11	14		nucleolus			ISO	Q9UKA4 	J:164563 	
+MGI:2140340	Akna	AT-hook transcription factor	4		fibrillar center			ISO	Q7Z591 	J:164563 	
+MGI:1913406	Anapc11	anaphase promoting complex subunit 11	11		nucleolus			ISO	Q9NYG5 	J:164563 	
+MGI:88022	Ang	angiogenin, ribonuclease, RNase A family, 5	14		nucleolus			ISO	P03950 	J:164563 	
+MGI:104984	Ang2	angiogenin, ribonuclease A family, member 2	14		nucleolus			ISO	P03950 	J:164563 	
+MGI:1201793	Ang3	angiogenin, ribonuclease A family, member 3	14		nucleolus			ISO	P03950 	J:164563 	
+MGI:2656551	Ang4	angiogenin, ribonuclease A family, member 4	14		nucleolus			ISO	P03950 	J:164563 	
+MGI:3528602	Ang6	angiogenin, ribonuclease A family, member 6	14		nucleolus			ISO	P03950 	J:164563 	
+MGI:1097717	Ankrd1	ankyrin repeat domain 1 (cardiac muscle)	19		fibrillar center			ISO	Q15327 	J:164563 	
+MGI:1914878	Anp32b	acidic (leucine-rich) nuclear phosphoprotein 32 family, member B	4	colocalizes_with	nucleolus			ISO	Q92688 	J:164563 	
+MGI:1919311	Aopep	aminopeptidase O	13		nucleolus			IBA	PTN000898498 	J:265628 	
+MGI:1919311	Aopep	aminopeptidase O	13		nucleolus			IDA		J:152135 	
+MGI:88042	Apex1	apurinic/apyrimidinic endonuclease 1	14		nucleolus			ISO	P27695 	J:164563 	
+MGI:1924872	Apex2	apurinic/apyrimidinic endonuclease 2	X		fibrillar center			ISO	Q9UBZ4 	J:164563 	
+MGI:1913658	Aptx	aprataxin	4		nucleolus			ISO	Q7Z2E3 	J:164563 	
+MGI:2442988	Arfgef1	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	1		nucleolus			ISO	Q9Y6D6 	J:164563 	
+MGI:2450166	Arhgap32	Rho GTPase activating protein 32	9		fibrillar center			IBA	PTN002696576 	J:265628 	
+MGI:2450166	Arhgap32	Rho GTPase activating protein 32	9		fibrillar center			ISO	A7KAX9 	J:164563 	
+MGI:2443039	Arid5a	AT rich interactive domain 5A (MRF1-like)	1		nucleolus			ISO	Q03989 	J:164563 	
+MGI:1928393	Arl2	ADP-ribosylation factor-like 2	19		nucleolus			ISO	P36404 	J:164563 	
+MGI:99437	Arl4a	ADP-ribosylation factor-like 4A	12		nucleolus			ISO	P40617 	J:164563 	
+MGI:1926020	Arl14ep	ADP-ribosylation factor-like 14 effector protein	2		nucleolus			ISO	Q8N8R7 	J:164563 	
+MGI:2684845	Arntl2	aryl hydrocarbon receptor nuclear translocator-like 2	6		nucleolus			ISO	Q8WYA1 	J:164563 	
+MGI:109384	Atf3	activating transcription factor 3	1		nucleolus			ISO	P18847 	J:164563 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		nucleolus			ISO	Q13315 	J:164563 	
+MGI:1859660	Atp8b2	ATPase, class I, type 8B, member 2	3		nucleolus			ISO	P98198 	J:164563 	
+MGI:104783	Atxn1	ataxin 1	13		nucleolus			ISO	P54253 	J:164563 	
+MGI:3694797	Atxn1l	ataxin 1-like	8		nucleolus			ISO	P0C7T5 	J:164563 	
+MGI:1099442	Atxn3	ataxin 3	12		nucleolus			ISO	P54252 	J:164563 	
+MGI:2140475	AU040320	expressed sequence AU040320	4		nucleolus			ISO	Q8IZA0 	J:164563 	
+MGI:1925491	Batf3	basic leucine zipper transcription factor, ATF-like 3	1		nucleolus			ISO	Q9NR55 	J:164563 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		B-WICH complex			ISO	Q9UIG0 	J:164563 	
+MGI:1353499	Baz1b	bromodomain adjacent to zinc finger domain, 1B	5		nucleolus			IC		J:319968 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		nucleolus			IC		J:111312 	
+MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	10		nucleolus			IDA		J:71381 J:100129 J:111312 J:150911 J:150958 	
+MGI:2136782	BC004004	cDNA sequence BC004004	17		nucleolus			IBA	PTN002859631 	J:265628 	
+MGI:2136782	BC004004	cDNA sequence BC004004	17		nucleolus			ISO	Q6UWU4 	J:164563 	
+MGI:88137	Bckdhb	branched chain ketoacid dehydrogenase E1, beta polypeptide	9		nucleolus			ISO	P21953 	J:164563 	
+MGI:107187	Bcl6	B cell leukemia/lymphoma 6	16		nucleolus			ISO	P41182 	J:164563 	
+MGI:1933114	Bcl9l	B cell CLL/lymphoma 9-like	9		nucleolus			ISO	Q86UU0 	J:164563 	
+MGI:2677212	Bend3	BEN domain containing 3	10		nucleolus			ISO	Q5T5X7 	J:164563 	
+MGI:1328362	Blm	Bloom syndrome, RecQ like helicase	7		nucleolus			ISO	P54132 	J:164563 	
+MGI:2446132	Bms1	BMS1, ribosome biogenesis factor	6		nucleolus			ISO	Q14692 	J:164563 	
+MGI:1097164	Bnc1	basonuclin 1	7		nucleolus			IDA		J:292593 	
+MGI:109327	Bnip2	BCL2/adenovirus E1B interacting protein 2	9		nucleolus			ISO	Q12982 	J:164563 	
+MGI:1334460	Bop1	block of proliferation 1	15		nucleolus			IDA		J:148061 	
+MGI:1334460	Bop1	block of proliferation 1	15		nucleolus			ISO	Q14137 	J:164563 	
+MGI:1334460	Bop1	block of proliferation 1	15		PeBoW complex			IBA	PTN000426773 	J:265628 	
+MGI:1334460	Bop1	block of proliferation 1	15		PeBoW complex			ISO	Q14137 	J:73065 	
+MGI:1888520	Brd4	bromodomain containing 4	17	NOT	nucleolus			IDA		J:101015 	
+MGI:1915082	Brix1	BRX1, biogenesis of ribosomes	15		nucleolus			IBA	PTN000341804 	J:265628 	
+MGI:1915082	Brix1	BRX1, biogenesis of ribosomes	15		nucleolus			ISO	Q8TDN6 	J:164563 	
+MGI:1890651	Brwd1	bromodomain and WD repeat domain containing 1	16		nucleolus			ISO	Q9NSI6 	J:164563 	
+MGI:1916065	Btbd10	BTB (POZ) domain containing 10	7		fibrillar center			ISO	Q9BSF8 	J:164563 	
+MGI:1347001	Btd	biotinidase	14		nucleolus	is a part of cochlear ganglion,is a part of neuron		IDA		J:102418 	
+MGI:1913388	Bud23	BUD23, rRNA methyltransferase and ribosome maturation factor	5		nucleolus			IBA	PTN000296553 	J:265628 	
+MGI:1913388	Bud23	BUD23, rRNA methyltransferase and ribosome maturation factor	5		nucleolus			ISO	O43709 	J:164563 	
+MGI:1858419	Bysl	bystin-like	17		nucleolus			IBA	PTN000302374 	J:265628 	
+MGI:1858419	Bysl	bystin-like	17		nucleolus	is a part of compacted morula|is a part of 4-8 cell stage embryo		IDA		J:118938 	
+MGI:1858419	Bysl	bystin-like	17		nucleolus			IDA		J:117651 	
+MGI:1858419	Bysl	bystin-like	17		nucleolus			ISO	Q13895 	J:164563 	
+MGI:1927354	C1d	C1D nuclear receptor co-repressor	11		nucleolus			IBA	PTN000393928 	J:265628 	
+MGI:1927354	C1d	C1D nuclear receptor co-repressor	11		nucleolus			ISO	Q13901 	J:164563 	
+MGI:3645763	C2cd4a	C2 calcium-dependent domain containing 4A	9		nucleolus			ISO	Q8NCU7 	J:164563 	
+MGI:3612702	C130026I21Rik	RIKEN cDNA C130026I21 gene	1		fibrillar center			ISO	Q13342 	J:164563 	
+MGI:103301	Cacnb4	calcium channel, voltage-dependent, beta 4 subunit	2		nucleolus			ISO	RGD:68385 	J:155856 	
+MGI:88258	Camk4	calcium/calmodulin-dependent protein kinase IV	18		fibrillar center			ISO	Q16566 	J:164563 	
+MGI:2140230	Camta1	calmodulin binding transcription activator 1	4		nucleolus			ISO	Q9Y6Y1 	J:164563 	
+MGI:1098259	Capg	capping protein (actin filament), gelsolin-like	6		nucleolus			ISO	P40121 	J:164563 	
+MGI:107437	Capn3	calpain 3	2		nucleolus			ISO	P20807 	J:164563 	
+MGI:2182269	Carf	calcium response factor	1		granular component			IDA		J:79357 	
+MGI:1309489	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	X		nucleolus			ISO	O14936 	J:164563 	
+MGI:97295	Casp2	caspase 2	6		nucleolus			IC		J:246097 	
+MGI:1312921	Casp6	caspase 6	3		nucleolus			ISO	P55212 	J:164563 	
+MGI:109372	Cbx5	chromobox 5	15		nucleolus			IDA		J:55698 	
+MGI:109372	Cbx5	chromobox 5	15		nucleolus			ISO	P45973 	J:164563 	
+MGI:2384831	Cc2d1a	coiled-coil and C2 domain containing 1A	8		fibrillar center			ISO	Q6P1N0 	J:164563 	
+MGI:1277220	Ccdc86	coiled-coil domain containing 86	19		nucleolus			IBA	PTN001005466 	J:265628 	
+MGI:1277220	Ccdc86	coiled-coil domain containing 86	19		nucleolus			ISO	Q9H6F5 	J:164563 	
+MGI:1914541	Ccdc137	coiled-coil domain containing 137	11		fibrillar center			ISO	Q6PK04 	J:164563 	
+MGI:1914541	Ccdc137	coiled-coil domain containing 137	11		nucleolus			ISO	Q6PK04 	J:164563 	
+MGI:88314	Ccnd2	cyclin D2	6		nucleolus			ISO	P30279 	J:164563 	
+MGI:2145534	Ccno	cyclin O	13		nucleolus			ISO	P22674 	J:164563 	
+MGI:1328363	Ccnt1	cyclin T1	15	NOT	nucleolus			ISO	O60563 	J:101015 	
+MGI:106185	Ccr2	chemokine (C-C motif) receptor 2	9		fibrillar center			ISO	P41597 	J:164563 	
+MGI:1330281	Cd2ap	CD2-associated protein	17		fibrillar center			ISO	Q9Y5K6 	J:164563 	
+MGI:1917483	Cd2bp2	CD2 cytoplasmic tail binding protein 2	7		fibrillar center			ISO	O95400 	J:164563 	
+MGI:1917583	Cd3eap	CD3E antigen, epsilon polypeptide associated protein	7		fibrillar center			ISO	O15446 	J:164563 	
+MGI:1917583	Cd3eap	CD3E antigen, epsilon polypeptide associated protein	7		nucleolus			IDA		J:91576 	
+MGI:1917583	Cd3eap	CD3E antigen, epsilon polypeptide associated protein	7		RNA polymerase I complex			IBA	PTN001435520 	J:265628 	
+MGI:1917583	Cd3eap	CD3E antigen, epsilon polypeptide associated protein	7		RNA polymerase I complex			IDA		J:91576 	
+MGI:1194924	Cd180	CD180 antigen	13		nucleolus			ISO	Q99467 	J:164563 	
+MGI:2442676	Cdc14a	CDC14 cell division cycle 14A	3		nucleolus			IBA	PTN000596949 	J:265628 	
+MGI:2441808	Cdc14b	CDC14 cell division cycle 14B	13		nucleolus			IBA	PTN000596949 	J:265628 	
+MGI:2441808	Cdc14b	CDC14 cell division cycle 14B	13		nucleolus			ISO	O60729 	J:164563 	
+MGI:2384982	Cdca7l	cell division cycle associated 7 like	12		fibrillar center			ISO	Q96GN5 	J:164563 	
+MGI:2384982	Cdca7l	cell division cycle associated 7 like	12		nucleolus			ISO	Q96GN5 	J:164563 	
+MGI:1196274	Cdca8	cell division cycle associated 8	4		nucleolus			ISO	Q53HL2 	J:164563 	
+MGI:88357	Cdk4	cyclin-dependent kinase 4	10		nucleolus			ISO	P11802 	J:164563 	
+MGI:101765	Cdk5	cyclin-dependent kinase 5	5	NOT	nucleolus			IDA		J:36350 	
+MGI:102956	Cdk7	cyclin-dependent kinase 7	13		fibrillar center			ISO	P50613 	J:164563 	
+MGI:1196224	Cdk8	cyclin-dependent kinase 8	5		nucleolus			ISO	P49336 	J:188596 	
+MGI:104556	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	17		nucleolus			ISO	P38936 	J:188596 	
+MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	4		granular component			IDA		J:79357 	
+MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	4		nucleolus	is a part of fibroblast		IDA		J:94174 J:101353 	
+MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	4		nucleolus			IDA		J:72910 J:94162 J:99711 J:138546 	
+MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	4		nucleolus			ISO	Q8N726 	J:164563 	
+MGI:1918175	Cdkn2aip	CDKN2A interacting protein	8		granular component			ISO	Q9NXV6 	J:164563 	
+MGI:1918175	Cdkn2aip	CDKN2A interacting protein	8		nucleolus			IBA	PTN000414335 	J:265628 	
+MGI:1918175	Cdkn2aip	CDKN2A interacting protein	8		nucleolus			ISO	Q9NXV6 	J:164563 	
+MGI:1261797	Cdkn2aipnl	CDKN2A interacting protein N-terminal like	11		nucleolus			IBA	PTN000414335 	J:265628 	
+MGI:99480	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	7		nucleolus			ISO	RGD:2326 	J:155856 	
+MGI:99480	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	7		nucleolus			ISO	P49715 	J:164563 	
+MGI:1890373	Cemip2	cell migration inducing hyaluronidase 2	19		nucleolus			ISO	Q9UHN6 	J:164563 	
+MGI:1349448	Cenph	centromere protein H	13		nucleolus			ISO	Q9H3R5 	J:164563 	
+MGI:1913586	Cenpp	centromere protein P	13		nucleolus			ISO	Q6IPU0 	J:164563 	
+MGI:1917262	Cep85	centrosomal protein 85	4		nucleolus			ISO	Q6P2H3 	J:164563 	
+MGI:3037816	Cerkl	ceramide kinase-like	2		nucleolus			ISO	Q49MI3 	J:164563 	
+MGI:1913371	Chchd1	coiled-coil-helix-coiled-coil-helix domain containing 1	14		fibrillar center			ISO	Q96BP2 	J:164563 	
+MGI:1344395	Chd3	chromodomain helicase DNA binding protein 3	11		nucleolus			ISO	Q12873 	J:164563 	
+MGI:2444748	Chd7	chromodomain helicase DNA binding protein 7	4		nucleolus			ISO	Q9P2D1 	J:164563 	
+MGI:1917511	Chp2	calcineurin-like EF hand protein 2	7		nucleolus			ISO	O43745 	J:164563 	
+MGI:1922083	Ciapin1	cytokine induced apoptosis inhibitor 1	8		nucleolus			IDA		J:159147 	
+MGI:1922083	Ciapin1	cytokine induced apoptosis inhibitor 1	8		nucleolus			ISO	Q6FI81 	J:164563 	
+MGI:1934157	Cilk1	ciliogenesis associated kinase 1	9		fibrillar center			ISO	Q9UPZ9 	J:164563 	
+MGI:1919185	Cipc	CLOCK interacting protein, circadian	12		nucleolus			ISO	Q9C0C6 	J:164563 	
+MGI:1923036	Ckap5	cytoskeleton associated protein 5	2		nucleolus			ISO	Q14008 	J:164563 	
+MGI:104540	Clec3b	C-type lectin domain family 3, member b	9		granular component			ISO	P05452 	J:164563 	
+MGI:2159324	Cln6	ceroid-lipofuscinosis, neuronal 6	9		nucleolus			ISO	Q9NWW5 	J:164563 	
+MGI:99698	Clock	circadian locomotor output cycles kaput	5		nucleolus			ISO	RGD:620271 	J:155856 	
+MGI:1913838	Cmpk1	cytidine monophosphate (UMP-CMP) kinase 1	4		nucleolus			ISO	P30085 	J:164563 	
+MGI:2685013	Cog7	component of oligomeric golgi complex 7	7		nucleolus			ISO	P83436 	J:164563 	
+MGI:104842	Coil	coilin	11		fibrillar center			ISO	P38432 	J:164563 	
+MGI:104842	Coil	coilin	11		nucleolus			ISO	P38432 	J:164563 	
+MGI:106015	Cox7a2l	cytochrome c oxidase subunit 7A2 like	17		nucleolus			ISO	O14548 	J:164563 	
+MGI:1917633	Cox10	heme A:farnesyltransferase cytochrome c oxidase assembly factor 10	11		nucleolus			ISO	Q12887 	J:164563 	
+MGI:1917818	Cpne3	copine III	4		nucleolus			ISO	O75131 	J:164563 	
+MGI:891996	Cps1	carbamoyl-phosphate synthetase 1	1		nucleolus			ISO	P31327 	J:164563 	
+MGI:109176	Cpt2	carnitine palmitoyltransferase 2	4		nucleolus			ISO	P23786 	J:164563 	
+MGI:1336168	Cradd	CASP2 and RIPK1 domain containing adaptor with death domain	10		nucleolus			IC		J:246097 	
+MGI:109514	Cstb	cystatin B	10		nucleolus			ISO	P04080 	J:164563 	
+MGI:109447	Ctcf	CCCTC-binding factor	8		nucleolus			ISO	P49711 	J:164563 	
+MGI:88564	Ctsl	cathepsin L	13		nucleolus			IDA		J:172943 	
+MGI:1918995	Cul2	cullin 2	18		nucleolus			IDA		J:100984 	
+MGI:1913638	Cutc	cutC copper transporter	19		nucleolus			ISO	Q9NTM9 	J:164563 	
+MGI:2686925	Cyb561a3	cytochrome b561 family, member A3	19		nucleolus			ISO	Q8NBI2 	J:164563 	
+MGI:109175	Dab2	disabled 2, mitogen-responsive phosphoprotein	15		fibrillar center			ISO	P98082 	J:164563 	
+MGI:2445220	Dcaf1	DDB1 and CUL4 associated factor 1	9		fibrillar center			ISO	Q9Y4B6 	J:164563 	
+MGI:2684929	Dcaf13	DDB1 and CUL4 associated factor 13	15		nucleolus			IBA	PTN000523215 	J:265628 	
+MGI:2684929	Dcaf13	DDB1 and CUL4 associated factor 13	15		nucleolus			ISO	Q9NV06 	J:164563 	
+MGI:1930042	Dclre1a	DNA cross-link repair 1A	19		fibrillar center			ISO	Q6PJP8 	J:164563 	
+MGI:1859251	Dctn3	dynactin 3	4		nucleolus			ISO	O75935 	J:164563 	
+MGI:1924256	Ddrgk1	DDRGK domain containing 1	2		nucleolus			ISO	Q96HY6 	J:164563 	
+MGI:105037	Ddx5	DEAD box helicase 5	11		nucleolus			ISO	P17844 	J:164563 	
+MGI:104976	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	9		nucleolus			ISO	RGD:1564560 	J:155856 	
+MGI:2443590	Ddx11	DEAD/H box helicase 11	17		nucleolus			ISO	Q96FC9 	J:164563 	
+MGI:1914192	Ddx18	DEAD box helicase 18	1		nucleolus			IBA	PTN002775131 	J:265628 	
+MGI:1914192	Ddx18	DEAD box helicase 18	1		nucleolus			ISO	Q9NVP1 	J:164563 	
+MGI:1860494	Ddx21	DExD box helicase 21	10		B-WICH complex			ISO	Q9NR30 	J:164563 	
+MGI:1860494	Ddx21	DExD box helicase 21	10		nucleolus			IBA	PTN002777480 	J:265628 	
+MGI:1860494	Ddx21	DExD box helicase 21	10		nucleolus			IC		J:319968 	
+MGI:1860494	Ddx21	DExD box helicase 21	10		nucleolus			ISO	Q9NR30 	J:164563 	
+MGI:1860494	Ddx21	DExD box helicase 21	10		nucleolus			ISS		J:62861 	
+MGI:1921601	Ddx23	DEAD box helicase 23	15		nucleolus			ISO	Q9BUQ8 	J:164563 	
+MGI:1351337	Ddx24	DEAD box helicase 24	12		nucleolus			IBA	PTN002772908 	J:265628 	
+MGI:1351337	Ddx24	DEAD box helicase 24	12		nucleolus			ISO	Q9GZR7 	J:164563 	
+MGI:2385884	Ddx27	DEAD box helicase 27	2		nucleolus			IBA	PTN002773100 	J:265628 	
+MGI:2385884	Ddx27	DEAD box helicase 27	2		nucleolus			ISO	Q96GQ7 	J:164563 	
+MGI:1919236	Ddx28	DEAD box helicase 28	8		nucleolus			ISO	Q9NUL7 	J:164563 	
+MGI:2682639	Ddx31	DEAD/H box helicase 31	2		nucleolus			ISO	Q9H8H2 	J:164563 	
+MGI:1920895	Ddx46	DEAD box helicase 46	13		fibrillar center			ISO	Q7L014 	J:164563 	
+MGI:1915005	Ddx47	DEAD box helicase 47	6		nucleolus			ISO	Q9H0S4 	J:164563 	
+MGI:2182303	Ddx50	DExD box helicase 50	10		nucleolus			IBA	PTN002777480 	J:265628 	
+MGI:2182303	Ddx50	DExD box helicase 50	10		nucleolus			ISO	Q9BQ39 	J:164563 	
+MGI:1919240	Ddx54	DEAD box helicase 54	5		nucleolus			IBA	PTN002773383 	J:265628 	
+MGI:1919240	Ddx54	DEAD box helicase 54	5		nucleolus			ISO	Q8TDD1 	J:164563 	
+MGI:1915098	Ddx55	DEAD box helicase 55	5		nucleolus			IBA	PTN002773818 	J:265628 	
+MGI:1915098	Ddx55	DEAD box helicase 55	5		nucleolus			ISO	Q8NHQ9 	J:164563 	
+MGI:1277172	Ddx56	DEAD box helicase 56	11		nucleolus			IBA	PTN002772752 	J:265628 	
+MGI:1277172	Ddx56	DEAD box helicase 56	11		nucleolus			IDA		J:70953 	
+MGI:1277172	Ddx56	DEAD box helicase 56	11		nucleolus			ISO	Q9NY93 	J:164563 	
+MGI:1858496	Deaf1	DEAF1, transcription factor	7		fibrillar center			ISO	O75398 	J:164563 	
+MGI:1333874	Dedd	death effector domain-containing	1		nucleolus			IBA	PTN001279360 	J:265628 	
+MGI:1333874	Dedd	death effector domain-containing	1		nucleolus			IDA		J:50530 	
+MGI:1914629	Dedd2	death effector domain-containing DNA binding protein 2	7		nucleolus			IBA	PTN001279360 	J:265628 	
+MGI:1914629	Dedd2	death effector domain-containing DNA binding protein 2	7		nucleolus			ISO	Q8WXF8 	J:164563 	
+MGI:1926209	Dek	DEK proto-oncogene (DNA binding)	13		B-WICH complex			ISO	P35659 	J:164563 	
+MGI:1926209	Dek	DEK proto-oncogene (DNA binding)	13		nucleolus			IC		J:319968 	
+MGI:1196287	Dffb	DNA fragmentation factor, beta subunit	4		nucleolus			ISO	O76075 	J:164563 	
+MGI:108177	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	1		nucleolus			IBA	PTN001053532 	J:265628 	
+MGI:108177	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	1		nucleolus			IDA		J:87744 	
+MGI:108177	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	1		nucleolus			ISO	Q08211 	J:164563 	
+MGI:2445102	Dhx33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	11		nucleolus		PR:000050061	EXP		J:271445 	
+MGI:2445102	Dhx33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	11		nucleolus		PR:Q80VY9-1	EXP		J:271445 	
+MGI:2445102	Dhx33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	11		nucleolus			IBA	PTN001053657 	J:265628 	
+MGI:2445102	Dhx33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	11		nucleolus			IDA		J:178781 	
+MGI:2445102	Dhx33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	11		nucleolus			ISO	Q9H6R0 	J:164563 	
+MGI:3028576	Dhx37	DEAH (Asp-Glu-Ala-His) box polypeptide 37	5		nucleolus			IBA	PTN000433605 	J:265628 	
+MGI:3028576	Dhx37	DEAH (Asp-Glu-Ala-His) box polypeptide 37	5		nucleolus			ISO	Q8IY37 	J:164563 	
+MGI:1858500	Diaph2	diaphanous related formin 2	X		nucleolus			ISO	O60879 	J:164563 	
+MGI:1913504	Dimt1	DIM1 dimethyladenosine transferase 1-like (S. cerevisiae)	13		nucleolus			ISO	Q9UNQ2 	J:164563 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		box H/ACA snoRNP complex			IBA	PTN000565614 	J:265628 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		box H/ACA snoRNP complex			ISO	RGD:621780 	J:155856 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		box H/ACA snoRNP complex			ISO	O60832 	J:164563 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		fibrillar center			ISO	O60832 	J:164563 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		nucleolus			IDA		J:198728 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		nucleolus			ISO	RGD:621780 	J:155856 	
+MGI:1351618	Dnajb9	DnaJ heat shock protein family (Hsp40) member B9	12		nucleolus			ISO	RGD:3070 	J:155856 	
+MGI:99470	Dnajc2	DnaJ heat shock protein family (Hsp40) member C2	5		nucleolus			ISO	Q99543 	J:164563 	
+MGI:1925371	Dnajc21	DnaJ heat shock protein family (Hsp40) member C21	15		nucleolus			ISO	Q5F1R6 	J:164563 	
+MGI:1923483	Dnttip1	deoxynucleotidyltransferase, terminal, interacting protein 1	2		nucleolus			ISO	Q9H147 	J:164563 	
+MGI:1923173	Dnttip2	deoxynucleotidyltransferase, terminal, interacting protein 2	3		nucleolus			IBA	PTN000495509 	J:265628 	
+MGI:1923173	Dnttip2	deoxynucleotidyltransferase, terminal, interacting protein 2	3		nucleolus			ISO	Q5QJE6 	J:164563 	
+MGI:109446	Doc2a	double C2, alpha	7		nucleolus			ISO	Q14183 	J:164563 	
+MGI:1918006	Dock4	dedicator of cytokinesis 4	12		nucleolus			ISO	Q8N1I0 	J:164563 	
+MGI:1913882	Dph6	diphthamine biosynthesis 6	2		nucleolus			ISO	Q7L8W6 	J:164563 	
+MGI:1914184	Dsn1	DSN1 homolog, MIS12 kinetochore complex component	2		fibrillar center			ISO	Q9H410 	J:164563 	
+MGI:1914184	Dsn1	DSN1 homolog, MIS12 kinetochore complex component	2		nucleolus			ISO	Q9H410 	J:164563 	
+MGI:1924093	Dtl	denticleless E3 ubiquitin protein ligase	1		nucleolus			ISO	Q9NZJ0 	J:164563 	
+MGI:1919352	Dusp11	dual specificity phosphatase 11 (RNA/RNP complex 1-interacting)	6		fibrillar center			ISO	O75319 	J:164563 	
+MGI:105091	E2f5	E2F transcription factor 5	3		fibrillar center			ISO	Q15329 	J:164563 	
+MGI:105091	E2f5	E2F transcription factor 5	3		nucleolus			ISO	Q15329 	J:164563 	
+MGI:1922038	E2f8	E2F transcription factor 8	7		nucleolus			ISO	A0AVK6 	J:164563 	
+MGI:1916322	Ebna1bp2	EBNA1 binding protein 2	4		nucleolus			IBA	PTN000315113 	J:265628 	
+MGI:1916322	Ebna1bp2	EBNA1 binding protein 2	4		nucleolus			ISO	Q99848 	J:164563 	
+MGI:1891227	Edf1	endothelial differentiation-related factor 1	2		nucleolus			ISO	O60869 	J:164563 	
+MGI:1096881	Eef1a1	eukaryotic translation elongation factor 1 alpha 1	9		nucleolus			ISO	P68104 	J:164563 	
+MGI:1913906	Eef1d	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	15		fibrillar center			ISO	P29692 	J:164563 	
+MGI:1913393	Eef1e1	eukaryotic translation elongation factor 1 epsilon 1	13		nucleolus			ISO	O43324 	J:164563 	
+MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	17	NOT	nucleolus			IDA		J:114884 	
+MGI:1913591	Eid3	EP300 interacting inhibitor of differentiation 3	10		nucleolus			ISO	Q8N140 	J:164563 	
+MGI:95301	Eif3a	eukaryotic translation initiation factor 3, subunit A	19		nucleolus			ISO	Q14152 	J:164563 	
+MGI:2386251	Eif3l	eukaryotic translation initiation factor 3, subunit L	15		fibrillar center			IDA		J:78329 	
+MGI:2386251	Eif3l	eukaryotic translation initiation factor 3, subunit L	15		nucleolus			IDA		J:78329 	
+MGI:1923731	Eif4a3	eukaryotic translation initiation factor 4A3	11		nucleolus			IBA	PTN002777794 	J:265628 	
+MGI:3644226	Eif4a3l1	eukaryotic translation initiation factor 4A3 like 1	6		nucleolus			IBA	PTN002777794 	J:265628 	
+MGI:3646594	Eif4a3l2	eukaryotic translation initiation factor 4A3 like 2	6		nucleolus			IBA	PTN002777794 	J:265628 	
+MGI:1196288	Eif6	eukaryotic translation initiation factor 6	2		nucleolus			IBA	PTN000082061 	J:265628 	
+MGI:2673679	Ell3	elongation factor RNA polymerase II-like 3	2		nucleolus			ISO	Q9HB65 	J:164563 	
+MGI:1921445	Elp3	elongator acetyltransferase complex subunit 3	14		nucleolus			ISO	Q9H9T3 	J:164563 	
+MGI:1315195	Emg1	EMG1 N1-specific pseudouridine methyltransferase	6		nucleolus			IBA	PTN000290839 	J:265628 	
+MGI:1315195	Emg1	EMG1 N1-specific pseudouridine methyltransferase	6		nucleolus			ISO	Q92979 	J:164563 	
+MGI:95387	Emx1	empty spiracles homeobox 1	6		nucleolus			ISO	Q04741 	J:164563 	
+MGI:95390	En2	engrailed 2	5		fibrillar center			ISO	P19622 	J:164563 	
+MGI:95390	En2	engrailed 2	5		nucleolus			ISO	P19622 	J:164563 	
+MGI:109610	Enc1	ectodermal-neural cortex 1	13		nucleolus			ISO	RGD:1303152 	J:155856 	
+MGI:2444688	Endov	endonuclease V	11		nucleolus			IBA	PTN002003289 	J:265628 	
+MGI:2444688	Endov	endonuclease V	11		nucleolus			ISO	Q8N8Q3 	J:164563 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		B-WICH complex			ISO	Q03468 	J:164563 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		nucleolus			IC		J:319968 	
+MGI:1100494	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	14		nucleolus			ISO	Q03468 	J:73065 	
+MGI:1914706	Ergic2	ERGIC and golgi 2	6		nucleolus			ISO	Q96RQ1 	J:164563 	
+MGI:1914526	Eri1	exoribonuclease 1	8		nucleolus			IBA	PTN000549023 	J:265628 	
+MGI:1914526	Eri1	exoribonuclease 1	8		nucleolus			IDA		J:146701 	
+MGI:1914526	Eri1	exoribonuclease 1	8		nucleolus			ISO	Q8IV48 	J:164563 	
+MGI:1346831	Esrra	estrogen related receptor, alpha	19		fibrillar center			ISO	P11474 	J:164563 	
+MGI:99423	Etv4	ets variant 4	11		nucleolus			ISO	P43268 	J:164563 	
+MGI:109336	Etv6	ets variant 6	6		nucleolus			ISO	P41212 	J:164563 	
+MGI:99960	Ewsr1	Ewing sarcoma breakpoint region 1	11		nucleolus			ISO	RGD:1307258 	J:155856 	
+MGI:99960	Ewsr1	Ewing sarcoma breakpoint region 1	11		nucleolus			ISO	Q01844 	J:164563 	
+MGI:1913833	Exosc1	exosome component 1	19		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1913833	Exosc1	exosome component 1	19		nucleolus			ISO	NM_016046 	J:73065 	
+MGI:1913833	Exosc1	exosome component 1	19		nucleolus			ISO	Q9Y3B2 	J:164563 	
+MGI:2385133	Exosc2	exosome component 2	2		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:2385133	Exosc2	exosome component 2	2		nucleolus			ISO	Q13868 	J:164563 	
+MGI:1913612	Exosc3	exosome component 3	4		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1913612	Exosc3	exosome component 3	4		nucleolus			ISO	Q9NQT5 	J:164563 	
+MGI:1923576	Exosc4	exosome component 4	15		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1923576	Exosc4	exosome component 4	15		nucleolus			IBA	PTN000237329 	J:265628 	
+MGI:1923576	Exosc4	exosome component 4	15		nucleolus			ISO	Q9NPD3 	J:164563 	
+MGI:107889	Exosc5	exosome component 5	7		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:107889	Exosc5	exosome component 5	7		nucleolus			IBA	PTN000237329 	J:265628 	
+MGI:107889	Exosc5	exosome component 5	7		nucleolus			ISO	Q9NQT4 	J:164563 	
+MGI:1919794	Exosc6	exosome component 6	8		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1919794	Exosc6	exosome component 6	8		nucleolus			IBA	PTN000237329 	J:265628 	
+MGI:1919794	Exosc6	exosome component 6	8		nucleolus			ISO	Q5RKV6 	J:164563 	
+MGI:1913696	Exosc7	exosome component 7	9		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1913696	Exosc7	exosome component 7	9		nucleolus			ISO	Q15024 	J:164563 	
+MGI:1916889	Exosc8	exosome component 8	3		fibrillar center			ISO	Q96B26 	J:164563 	
+MGI:1916889	Exosc8	exosome component 8	3		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1916889	Exosc8	exosome component 8	3		nucleolus			ISO	Q96B26 	J:164563 	
+MGI:1355319	Exosc9	exosome component 9	3		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1355319	Exosc9	exosome component 9	3		nucleolus			ISO	Q06265 	J:164563 	
+MGI:1355319	Exosc9	exosome component 9	3		nucleolus			TAS		J:61080 	
+MGI:1355322	Exosc10	exosome component 10	4		nucleolar exosome (RNase complex)			IC		J:320264 	
+MGI:1355322	Exosc10	exosome component 10	4		nucleolus			IBA	PTN000252264 	J:265628 	
+MGI:1355322	Exosc10	exosome component 10	4		nucleolus			ISO	Q01780 	J:164563 	
+MGI:1355322	Exosc10	exosome component 10	4		nucleolus			TAS		J:61080 	
+MGI:109341	Eya2	EYA transcriptional coactivator and phosphatase 2	2	NOT	nucleolus			IDA		J:74329 	
+MGI:98931	Ezr	ezrin	17		fibrillar center			ISO	P15311 	J:164563 	
+MGI:1915172	Fam32a	family with sequence similarity 32, member A	8		nucleolus			IBA	PTN000328467 	J:265628 	
+MGI:1915172	Fam32a	family with sequence similarity 32, member A	8		nucleolus			ISO	Q9Y421 	J:164563 	
+MGI:1915508	Fam111a	family with sequence similarity 111, member A	19		fibrillar center			ISO	Q96PZ2 	J:164563 	
+MGI:2385851	Fam193b	family with sequence similarity 193, member B	13		nucleolus			ISO	Q96PV7 	J:164563 	
+MGI:1916334	Fam207a	family with sequence similarity 207, member A	10		nucleolus			IEA	IPR028160 	J:72247 	
+MGI:2448480	Fancd2	Fanconi anemia, complementation group D2	6		nucleolus			ISO	Q9BXW9 	J:164563 	
+MGI:1926471	Fancg	Fanconi anemia, complementation group G	4		nucleolus			ISO	O15287 	J:164563 	
+MGI:95486	Fbl	fibrillarin	7		dense fibrillar component			ISO	RGD:1305542 	J:155856 	
+MGI:95486	Fbl	fibrillarin	7		fibrillar center			ISO	P22087 	J:164563 	
+MGI:95486	Fbl	fibrillarin	7		granular component	is a part of fibroblast		IDA		J:94174 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus			IBA	PTN000036742 	J:265628 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus	is a part of oocyte		IDA		J:114487 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus	is a part of fibroblast		IDA		J:89938 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus			IDA		J:23791 J:74707 J:83658 J:100984 J:106641 J:138546 J:162045 J:197929 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus			ISO	RGD:1305542 	J:155856 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus			ISO	P22087 	J:117454 J:164563 	
+MGI:95486	Fbl	fibrillarin	7		nucleolus			ISS	P22087 	J:93906 	
+MGI:1921452	Fblim1	filamin binding LIM protein 1	4		fibrillar center			ISO	Q8WUP2 	J:164563 	
+MGI:3034689	Fbll1	fibrillarin-like 1	11		fibrillar center			ISO	A6NHQ2 	J:164563 	
+MGI:3034689	Fbll1	fibrillarin-like 1	11		nucleolus			IBA	PTN000036742 	J:265628 	
+MGI:1921415	Fbxl22	F-box and leucine-rich repeat protein 22	9		nucleolus			ISO	Q6P050 	J:164563 	
+MGI:2147134	Fbxo11	F-box protein 11	17		nucleolus			ISO	Q86XK2 	J:164563 	
+MGI:1354695	Fbxw7	F-box and WD-40 domain protein 7	3		nucleolus			IDA		J:138546 	
+MGI:1354695	Fbxw7	F-box and WD-40 domain protein 7	3		nucleolus			ISO	Q969H0 	J:164563 	
+MGI:1920986	Fcf1	FCF1 rRNA processing protein	12		nucleolus			IBA	PTN000275999 	J:265628 	
+MGI:102779	Fen1	flap structure specific endonuclease 1	19		nucleolus			ISO	P39748 	J:164563 	
+MGI:95515	Fgf1	fibroblast growth factor 1	18		nucleolus			ISO	RGD:2605 	J:155856 	
+MGI:1277980	Fgf18	fibroblast growth factor 18	11		nucleolus			ISO	O76093 	J:164563 	
+MGI:1914362	Fgf22	fibroblast growth factor 22	10		nucleolus			IDA		J:84622 	
+MGI:1277947	Fhit	fragile histidine triad gene	14		fibrillar center			ISO	P49789 	J:164563 	
+MGI:1917848	Filip1	filamin A interacting protein 1	9		nucleolus			ISO	Q7Z7B0 	J:164563 	
+MGI:95556	Flna	filamin, alpha	X		nucleolus			ISO	P21333 	J:164563 	
+MGI:1859252	Fmn2	formin 2	1		nucleolus			ISO	Q9NZ56 	J:164563 	
+MGI:95564	Fmr1	FMRP translational regulator 1	X		nucleolus			ISO	Q06787 	J:164563 	
+MGI:1347472	Foxa1	forkhead box A1	12		fibrillar center			ISO	P55317 	J:164563 	
+MGI:1096329	Foxi1	forkhead box I1	11		nucleolus			ISO	Q12951 	J:164563 	
+MGI:1926805	Foxj2	forkhead box J2	6		fibrillar center			ISO	Q9P0K8 	J:164563 	
+MGI:893597	Frg1	FSHD region gene 1	8		nucleolus			IBA	PTN000309119 	J:265628 	
+MGI:1860295	Ftsj3	FtsJ RNA methyltransferase homolog 3 (E. coli)	11		nucleolus			IBA	PTN000100393 	J:265628 	
+MGI:1860295	Ftsj3	FtsJ RNA methyltransferase homolog 3 (E. coli)	11		nucleolus			ISO	Q8IY81 	J:164563 	
+MGI:1930948	Gar1	GAR1 ribonucleoprotein	3		box H/ACA snoRNP complex			IBA	PTN000579935 	J:265628 	
+MGI:1930948	Gar1	GAR1 ribonucleoprotein	3		box H/ACA snoRNP complex			ISO	RGD:1563995 	J:155856 	
+MGI:1930948	Gar1	GAR1 ribonucleoprotein	3		box H/ACA snoRNP complex			ISO	Q9NY12 	J:164563 	
+MGI:1930948	Gar1	GAR1 ribonucleoprotein	3		dense fibrillar component			ISO	AJ276003 	J:65787 	
+MGI:1930948	Gar1	GAR1 ribonucleoprotein	3		fibrillar center			ISO	Q9NY12 	J:164563 	
+MGI:2141656	Gcfc2	GC-rich sequence DNA binding factor 2	6		nucleolus			ISO	P16383 	J:164563 	
+MGI:1913853	Gemin2	gem nuclear organelle associated protein 2	12		nucleolus			ISO	O14893 	J:164563 	
+MGI:2449313	Gemin4	gem nuclear organelle associated protein 4	11		nucleolus			ISO	P57678 	J:73065 	
+MGI:1928379	Get3	guided entry of tail-anchored proteins factor 3, ATPase	8		nucleolus			ISO	O43681 	J:164563 	
+MGI:1914854	Get4	golgi to ER traffic protein 4	5		nucleolus			ISO	Q7L5D6 	J:164563 	
+MGI:2181461	Ggn	gametogenetin	7		nucleolus		PR:Q80WJ1-3	IDA		J:84438 	
+MGI:95722	Gjb4	gap junction protein, beta 4	4		nucleolus			ISO	Q9NTQ9 	J:164563 	
+MGI:1921662	Gle1	GLE1 RNA export mediator (yeast)	2		nucleolus			ISO	Q53GS7 	J:164563 	
+MGI:95728	Gli2	GLI-Kruppel family member GLI2	1		nucleolus			ISO	P10070 	J:164563 	
+MGI:95729	Gli3	GLI-Kruppel family member GLI3	13		nucleolus			ISO	P10071 	J:164563 	
+MGI:5141974	Gm20509	predicted gene 20509	9		nucleolus			IBA	PTN000082570 	J:265628 	
+MGI:2385207	Gnl2	guanine nucleotide binding protein-like 2 (nucleolar)	4		nucleolus			IBA	PTN000119781 	J:265628 	
+MGI:2385207	Gnl2	guanine nucleotide binding protein-like 2 (nucleolar)	4		nucleolus			ISO	Q13823 	J:164563 	
+MGI:1353651	Gnl3	guanine nucleotide binding protein-like 3 (nucleolar)	14		nucleolus			IBA	PTN000119956 	J:265628 	
+MGI:1353651	Gnl3	guanine nucleotide binding protein-like 3 (nucleolar)	14		nucleolus			IDA		J:80512 J:117454 	
+MGI:1353651	Gnl3	guanine nucleotide binding protein-like 3 (nucleolar)	14		nucleolus			ISO	RGD:631354 	J:155856 	
+MGI:1353651	Gnl3	guanine nucleotide binding protein-like 3 (nucleolar)	14		nucleolus			ISO	Q9BVP2 	J:164563 	
+MGI:2448557	Gnl3l	guanine nucleotide binding protein-like 3 (nucleolar)-like	X		nucleolus			IBA	PTN000119956 	J:265628 	
+MGI:2448557	Gnl3l	guanine nucleotide binding protein-like 3 (nucleolar)-like	X		nucleolus			ISO	Q9NVN8 	J:164563 	
+MGI:96958	Golga3	golgi autoantigen, golgin subfamily a, 3	5		nucleolus			ISO	Q08378 	J:164563 	
+MGI:1917579	Gon4l	gon-4-like (C.elegans)	3		fibrillar center			ISO	Q9H869 	J:164563 	
+MGI:1917579	Gon4l	gon-4-like (C.elegans)	3		nucleolus			ISO	Q9H869 	J:164563 	
+MGI:4845848	Gon7	GON7 subunit of KEOPS complex	12		nucleolus			ISO	Q9BXV9 	J:164563 	
+MGI:2138271	Gorab	golgin, RAB6-interacting	1		nucleolus			ISO	Q5T7V8 	J:164563 	
+MGI:1913864	Gpatch4	G patch domain containing 4	3		nucleolus			IBA	PTN000567695 	J:265628 	
+MGI:1924104	Gper1	G protein-coupled estrogen receptor 1	5		nucleolus			ISO	Q99527 	J:164563 	
+MGI:1891250	Gprc5a	G protein-coupled receptor, family C, group 5, member A	6		nucleolus			ISO	Q8NFJ5 	J:164563 	
+MGI:1927596	Gprc5b	G protein-coupled receptor, family C, group 5, member B	7		nucleolus			ISO	Q9NZH0 	J:164563 	
+MGI:95805	Grb2	growth factor receptor bound protein 2	11		nucleolus			ISO	P62993 	J:164563 	
+MGI:2141989	Grwd1	glutamate-rich WD repeat containing 1	7		nucleolus			ISO	Q9BQ67 	J:164563 	
+MGI:107227	Gtf2h5	general transcription factor IIH, polypeptide 5	17		nucleolus			ISO	Q6ZYL4 	J:73065 	
+MGI:107887	Gtf3c1	general transcription factor III C 1	7		nucleolus			ISO	Q12789 	J:164563 	
+MGI:2138383	Gtf3c3	general transcription factor IIIC, polypeptide 3	1		nucleolus			ISO	Q9Y5Q9 	J:164563 	
+MGI:1916487	Gtpbp4	GTP binding protein 4	13		nucleolus			IBA	PTN000193649 	J:265628 	
+MGI:1916487	Gtpbp4	GTP binding protein 4	13		nucleolus			ISO	Q9BZE4 	J:164563 	
+MGI:1921783	Gzf1	GDNF-inducible zinc finger protein 1	2		nucleolus			ISO	Q9H116 	J:164563 	
+MGI:95893	H1f0	H1.0 linker histone	15	NOT	nucleolus			IDA		J:207809 	
+MGI:1931527	H1f4	H1.4 linker histone, cluster member	13	NOT	nucleolus			IDA		J:207809 	
+MGI:1861461	H1f5	H1.5 linker histone, cluster member	13		nucleolus			ISO	P16401 	J:164563 	
+MGI:2176207	H1f8	H1.8 linker histone	6	NOT	nucleolus			IDA		J:207809 	
+MGI:2685307	H1f10	H1.10 linker histone	6		nucleolus			ISO	Q92522 	J:164563 	
+MGI:1891713	Habp4	hyaluronic acid binding protein 4	13		nucleolus			ISO	Q5JVS0 	J:164563 	
+MGI:103577	Hand1	heart and neural crest derivatives expressed 1	11		nucleolus			IDA		J:152657 	
+MGI:1261831	Hap1	huntingtin-associated protein 1	11		nucleolus			ISO	P54257 	J:164563 	
+MGI:1920988	Haus7	HAUS augmin-like complex, subunit 7	X		nucleolus			ISO	Q99871 	J:164563 	
+MGI:1919998	Hdhd3	haloacid dehalogenase-like hydrolase domain containing 3	4		nucleolus			ISO	Q9BSH5 	J:164563 	
+MGI:2442524	Heatr1	HEAT repeat containing 1	13		fibrillar center			ISO	Q9H583 	J:164563 	
+MGI:2442524	Heatr1	HEAT repeat containing 1	13		nucleolus			ISO	Q9H583 	J:164563 	
+MGI:2442524	Heatr1	HEAT repeat containing 1	13		t-UTP complex			IBA	PTN000335845 	J:265628 	
+MGI:2152895	Helb	helicase (DNA) B	10		nucleolus			IBA	PTN000433605 	J:265628 	
+MGI:1914595	Herc4	hect domain and RLD 4	10		fibrillar center			ISO	Q5GLZ8 	J:164563 	
+MGI:2142364	Hirip3	HIRA interacting protein 3	7		nucleolus			ISO	Q9BW71 	J:164563 	
+MGI:2685821	Hjurp	Holliday junction recognition protein	1		nucleolus			ISO	Q8NCD3 	J:164563 	
+MGI:96157	Hmgb2	high mobility group box 2	8		nucleolus			ISO	P26583 	J:164563 	
+MGI:96163	Hmox1	heme oxygenase 1	8		nucleolus			ISO	RGD:2806 	J:155856 	
+MGI:2678023	Homez	homeodomain leucine zipper-encoding gene	14		nucleolus			ISO	Q8IX15 	J:164563 	
+MGI:96186	Hoxb5	homeobox B5	11		fibrillar center			ISO	P09067 	J:164563 	
+MGI:96210	Hoxd9	homeobox D9	2		nucleolus			ISO	P28356 	J:164563 	
+MGI:96233	Hsd3b1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:96233	Hsd3b1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:96234	Hsd3b2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:96234	Hsd3b2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:96235	Hsd3b3	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 3	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:96235	Hsd3b3	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 3	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:96236	Hsd3b4	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 4	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:96236	Hsd3b4	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 4	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:104645	Hsd3b5	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 5	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:104645	Hsd3b5	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 5	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:109598	Hsd3b6	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 6	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:109598	Hsd3b6	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 6	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:3711284	Hsd3b8	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 8	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:3711284	Hsd3b8	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 8	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:3782634	Hsd3b9	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 9	3		nucleolus			ISO	P14060 	J:164563 	
+MGI:3782634	Hsd3b9	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 9	3		nucleolus			ISO	P26439 	J:164563 	
+MGI:2685325	Hspb6	heat shock protein, alpha-crystallin-related, B6	7		nucleolus			ISO	O14558 	J:164563 	
+MGI:1277962	Hus1	HUS1 checkpoint clamp component	11		nucleolus			IEA	IPR016580 	J:72247 	
+MGI:2671003	Hus1b	HUS1 checkpoint clamp component B	13		nucleolus			IEA	IPR016580 	J:72247 	
+MGI:1099463	Idh3g	isocitrate dehydrogenase 3 (NAD+), gamma	X		nucleolus			ISO	P51553 	J:164563 	
+MGI:1337072	Ier5	immediate early response 5	1		nucleolus			ISO	Q5VY09 	J:164563 	
+MGI:1347080	Ifi202a	interferon activated gene 202A	1		nucleolus			IBA	PTN000258203 	J:265628 	
+MGI:96429	Ifi204	interferon activated gene 204	1		nucleolus			IBA	PTN000258203 	J:265628 	
+MGI:96429	Ifi204	interferon activated gene 204	1		nucleolus			IDA		J:196277 	
+MGI:96429	Ifi204	interferon activated gene 204	1		nucleolus			ISO	Q16666 	J:87001 J:164563 	
+MGI:101847	Ifi205	interferon activated gene 205	1		nucleolus			IBA	PTN000258203 	J:265628 	
+MGI:101847	Ifi205	interferon activated gene 205	1		nucleolus			ISO	P41218 	J:164563 	
+MGI:101847	Ifi205	interferon activated gene 205	1		nucleolus			ISO	Q6K0P9 	J:164563 	
+MGI:3646410	Ifi206	interferon activated gene 206	1		nucleolus			ISO	Q16666 	J:164563 	
+MGI:2138302	Ifi207	interferon activated gene 207	1		nucleolus			ISO	Q16666 	J:164563 	
+MGI:3041120	Ifi211	interferon activated gene 211	1		nucleolus			IBA	PTN000258203 	J:265628 	
+MGI:3041120	Ifi211	interferon activated gene 211	1		nucleolus			ISO	P41218 	J:164563 	
+MGI:1915031	Ilf2	interleukin enhancer binding factor 2	3		nucleolus			IDA		J:74487 	
+MGI:1915031	Ilf2	interleukin enhancer binding factor 2	3		nucleolus			ISO	Q12905 	J:164563 	
+MGI:1339973	Ilf3	interleukin enhancer binding factor 3	9		nucleolus			ISO	Q12906 	J:164563 	
+MGI:1916119	Imp3	IMP3, U3 small nucleolar ribonucleoprotein	9		Mpp10 complex			IBA	PTN000216482 	J:265628 	
+MGI:1916119	Imp3	IMP3, U3 small nucleolar ribonucleoprotein	9		Mpp10 complex			ISO	Q9NV31 	J:73065 	
+MGI:1916119	Imp3	IMP3, U3 small nucleolar ribonucleoprotein	9		nucleolus			ISO	Q9NV31 	J:73065 	
+MGI:106572	Imp4	IMP4, U3 small nucleolar ribonucleoprotein	1		fibrillar center			ISO	Q96G21 	J:164563 	
+MGI:106572	Imp4	IMP4, U3 small nucleolar ribonucleoprotein	1		Mpp10 complex			IBA	PTN000506837 	J:265628 	
+MGI:106572	Imp4	IMP4, U3 small nucleolar ribonucleoprotein	1		Mpp10 complex			ISO	Q96G21 	J:73065 	
+MGI:106572	Imp4	IMP4, U3 small nucleolar ribonucleoprotein	1		nucleolus			IBA	PTN000506776 	J:265628 	
+MGI:106572	Imp4	IMP4, U3 small nucleolar ribonucleoprotein	1		nucleolus			ISO	Q96G21 	J:73065 	
+MGI:1917270	Ino80b	INO80 complex subunit B	6		nucleolus			ISO	Q9C086 	J:164563 	
+MGI:2141881	Ino80e	INO80 complex subunit E	7		nucleolus			ISO	Q8NBZ0 	J:164563 	
+MGI:1917164	Ints4	integrator complex subunit 4	7		nucleolus			ISO	Q96HW7 	J:164563 	
+MGI:1351633	Ip6k1	inositol hexaphosphate kinase 1	9		fibrillar center			ISO	Q92551 	J:164563 	
+MGI:1923750	Ip6k2	inositol hexaphosphate kinase 2	9		fibrillar center			ISO	Q9UHH9 	J:164563 	
+MGI:1922928	Ippk	inositol 1,3,4,5,6-pentakisphosphate 2-kinase	13		nucleolus			ISO	Q9H8X2 	J:164563 	
+MGI:1196356	Iqsec1	IQ motif and Sec7 domain 1	6		nucleolus			ISO	Q6DN90 	J:164563 	
+MGI:1928895	Isg20	interferon-stimulated protein	7		nucleolus			ISO	Q96AZ6 	J:164563 	
+MGI:96613	Itgb4	integrin beta 4	11		nucleolus			ISO	P16144 	J:164563 	
+MGI:96623	Itpr1	inositol 1,4,5-trisphosphate receptor 1	6		nucleolus			IDA		J:99797 	
+MGI:96624	Itpr3	inositol 1,4,5-triphosphate receptor 3	17		nucleolus			IDA		J:99797 	
+MGI:96629	Jak2	Janus kinase 2	19		nucleolus			ISO	RGD:2939 	J:155856 	
+MGI:2141450	Jazf1	JAZF zinc finger 1	6		fibrillar center			ISO	Q86VZ6 	J:164563 	
+MGI:1858910	Jmjd6	jumonji domain containing 6	11		nucleolus			IDA		J:166667 	
+MGI:1858910	Jmjd6	jumonji domain containing 6	11		nucleolus			ISO	Q6NYC1 	J:164563 	
+MGI:1096361	Jpt1	Jupiter microtubule associated homolog 1	11		nucleolus			ISO	Q9UK76 	J:164563 	
+MGI:1932051	Kat5	K(lysine) acetyltransferase 5	19		nucleolus			ISO	Q92993 	J:164563 	
+MGI:2442415	Kat6a	K(lysine) acetyltransferase 6A	8		nucleolus			ISO	Q92794 	J:164563 	
+MGI:1919675	Katnbl1	katanin p80 subunit B like 1	2		nucleolus			IBA	PTN001027459 	J:265628 	
+MGI:1919675	Katnbl1	katanin p80 subunit B like 1	2		nucleolus			ISO	Q9H079 	J:164563 	
+MGI:2446210	Kdm4a	lysine (K)-specific demethylase 4A	4		fibrillar center			ISO	O75164 	J:164563 	
+MGI:99780	Kdm5d	lysine (K)-specific demethylase 5D	Y		fibrillar center			ISO	Q9BY66 	J:164563 	
+MGI:2443388	Kdm7a	lysine (K)-specific demethylase 7A	6		nucleolus			ISO	Q6ZMT4 	J:164563 	
+MGI:108390	Kif2a	kinesin family member 2A	13		nucleolus			ISO	O00139 	J:164563 	
+MGI:1920720	Kif2b	kinesin family member 2B	11		nucleolus			ISO	Q8N4N8 	J:164563 	
+MGI:2444576	Kif20b	kinesin family member 20B	19		nucleolus			ISO	Q96Q89 	J:164563 	
+MGI:96677	Kit	KIT proto-oncogene receptor tyrosine kinase	5		fibrillar center			ISO	P10721 	J:164563 	
+MGI:1346318	Klf6	Kruppel-like factor 6	13		fibrillar center			ISO	Q99612 	J:164563 	
+MGI:1346318	Klf6	Kruppel-like factor 6	13		nucleolus			ISO	Q99612 	J:164563 	
+MGI:1196453	Klhl7	kelch-like 7	5		nucleolus			ISO	Q8IXQ5 	J:164563 	
+MGI:2384899	Kri1	KRI1 homolog	9		nucleolus			IBA	PTN000375561 	J:265628 	
+MGI:2384899	Kri1	KRI1 homolog	9		nucleolus			ISO	Q8N9T8 	J:164563 	
+MGI:1289274	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)	10		nucleolus			IBA	PTN000286619 	J:265628 	
+MGI:1289274	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)	10		nucleolus			ISO	Q13601 	J:164563 	
+MGI:2143628	L3mbtl3	L3MBTL3 histone methyl-lysine binding protein	10		nucleolus			ISO	Q96JM7 	J:164563 	
+MGI:106330	Larp4b	La ribonucleoprotein domain family, member 4B	13		nucleolus			ISO	Q92615 	J:164563 	
+MGI:894670	Ldb2	LIM domain binding 2	5		nucleolus			ISO	O43679 	J:164563 	
+MGI:2685212	Ldoc1	regulator of NFKB signaling	X		nucleolus			IBA	PTN000398637 	J:265628 	
+MGI:2685212	Ldoc1	regulator of NFKB signaling	X		nucleolus			ISO	O95751 	J:164563 	
+MGI:2685031	Leo1	Leo1, Paf1/RNA polymerase II complex component	9		fibrillar center			ISO	Q8WVC0 	J:164563 	
+MGI:1915864	Letmd1	LETM1 domain containing 1	15		nucleolus			ISO	Q6P1Q0 	J:164563 	
+MGI:1890546	Lin28a	lin-28 homolog A	4		nucleolus			IDA		J:121228 	
+MGI:1890546	Lin28a	lin-28 homolog A	4		nucleolus			ISO	Q9H9Z2 	J:164563 	
+MGI:3584032	Lin28b	lin-28 homolog B	10		nucleolus			ISO	Q6ZN17 	J:164563 	
+MGI:96789	Lipa	lysosomal acid lipase A	19		fibrillar center			ISO	P38571 	J:164563 	
+MGI:1913475	Llph	LLP homolog, long-term synaptic facilitation (Aplysia)	10		nucleolus			IBA	PTN002151938 	J:265628 	
+MGI:1913475	Llph	LLP homolog, long-term synaptic facilitation (Aplysia)	10		nucleolus			IDA		J:235308 	
+MGI:1913475	Llph	LLP homolog, long-term synaptic facilitation (Aplysia)	10		nucleolus			ISO	Q9BRT6 	J:164563 	
+MGI:102812	Lmo1	LIM domain only 1	7	NOT	nucleolus			IDA		J:131518 	
+MGI:1918985	Lrwd1	leucine-rich repeats and WD repeat domain containing 1	5		nucleolus			ISO	Q9UFC0 	J:164563 	
+MGI:1925901	Lsm6	LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated	8		nucleolus			IBA	PTN000111600 	J:265628 	
+MGI:107470	Lyar	Ly1 antibody reactive clone	5		nucleolus			IBA	PTN000318364 	J:265628 	
+MGI:107470	Lyar	Ly1 antibody reactive clone	5		nucleolus	is a part of epiblast cell		IDA		J:4972 	
+MGI:107470	Lyar	Ly1 antibody reactive clone	5		nucleolus			ISO	Q9NX58 	J:164563 	
+MGI:1920149	Macrod2	mono-ADP ribosylhydrolase 2	2		nucleolus			ISO	A1Z1Q3 	J:164563 	
+MGI:1349392	Macroh2a1	macroH2A.1 histone	13		nucleolus			ISO	O75367 	J:164563 	
+MGI:1913841	Mad2l1bp	MAD2L1 binding protein	17		nucleolus			ISO	Q15013 	J:164563 	
+MGI:1919140	Mad2l2	MAD2 mitotic arrest deficient-like 2	4		nucleolus			ISO	Q9UI95 	J:164563 	
+MGI:1916127	Maf1	MAF1 homolog, negative regulator of RNA polymerase III	15		nucleolus			ISO	Q9H063 	J:164563 	
+MGI:1933391	Maged2	MAGE family member D2	X		nucleolus			ISO	Q9UNF1 	J:164563 	
+MGI:1203522	Magi1	membrane associated guanylate kinase, WW and PDZ domain containing 1	6		nucleolus			ISO	Q96QZ7 	J:164563 	
+MGI:1915170	Mak16	MAK16 homolog	8		nucleolus			IBA	PTN000600976 	J:265628 	
+MGI:1915170	Mak16	MAK16 homolog	8		nucleolus			ISO	Q9BXY0 	J:164563 	
+MGI:2445027	Malt1	MALT1 paracaspase	18		fibrillar center			ISO	Q9UDY8 	J:164563 	
+MGI:2443304	Map1s	microtubule-associated protein 1S	8		nucleolus			ISO	Q66K74 	J:164563 	
+MGI:1858204	Map3k14	mitogen-activated protein kinase kinase kinase 14	11		fibrillar center			ISO	Q99558 	J:164563 	
+MGI:1347004	Mapkbp1	mitogen-activated protein kinase binding protein 1	2		nucleolus			ISO	O60336 	J:164563 	
+MGI:1345633	Mars1	methionine-tRNA synthetase 1	10		nucleolus			ISO	D84224 X94754 	J:73065 	
+MGI:1345633	Mars1	methionine-tRNA synthetase 1	10		nucleolus			ISO	P56192 	J:164563 	
+MGI:1333811	Mbd1	methyl-CpG binding domain protein 1	18	NOT	nucleolus			IDA		J:130115 	
+MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	18	NOT	nucleolus			IDA		J:130115 	
+MGI:1333812	Mbd3	methyl-CpG binding domain protein 3	10	NOT	nucleolus			IDA		J:130115 	
+MGI:106378	Mbd6	methyl-CpG binding domain protein 6	10		fibrillar center			ISO	Q96DN6 	J:164563 	
+MGI:1918320	Mbip	MAP3K12 binding inhibitory protein 1	12		nucleolus			ISO	Q9NS73 	J:164563 	
+MGI:1917274	Mcm10	minichromosome maintenance 10 replication initiation factor	2		nucleolus			ISO	Q7L590 	J:164563 	
+MGI:1858420	Mcrs1	microspherule protein 1	15		nucleolus			ISO	Q96EZ8 	J:164563 	
+MGI:104611	Mdfic	MyoD family inhibitor domain containing	6		nucleolus			IDA		J:152657 	
+MGI:104611	Mdfic	MyoD family inhibitor domain containing	6		nucleolus			ISO	Q9P1T7 	J:164563 	
+MGI:96952	Mdm2	transformed mouse 3T3 cell double minute 2	10		nucleolus			IDA		J:72910 J:100984 J:169789 	
+MGI:96952	Mdm2	transformed mouse 3T3 cell double minute 2	10		nucleolus			ISO	Q00987 	J:164563 	
+MGI:1926159	Mdn1	midasin AAA ATPase 1	4		nucleolus			ISO	Q9NU22 	J:164563 	
+MGI:1917338	Meaf6	MYST/Esa1-associated factor 6	4		nucleolus			ISO	Q9HAF1 	J:164563 	
+MGI:1921597	Meak7	MTOR associated protein , eak-7 homolog	8		nucleolus			ISO	Q6P9B6 	J:164563 	
+MGI:1100846	Med1	mediator complex subunit 1	11		nucleolus			ISO	Q15648 	J:164563 	
+MGI:1916225	Med27	mediator complex subunit 27	2		nucleolus			ISO	Q6P2C8 	J:164563 	
+MGI:1339986	Mettl1	methyltransferase like 1	10		nucleolus			ISO	Q9UBP6 	J:164563 	
+MGI:1917212	Mettl18	methyltransferase like 18	1		nucleolus			ISO	O95568 	J:164563 	
+MGI:2384301	Mettl22	methyltransferase like 22	16		nucleolus			ISO	Q9BUU2 	J:164563 	
+MGI:1890222	Midn	midnolin	10		nucleolus			IDA		J:64477 	
+MGI:1890222	Midn	midnolin	10	NOT	nucleolus			ISO	D4AE48 	J:207233 	
+MGI:1916924	Mif4gd	MIF4G domain containing	11		nucleolus			ISO	A9UHW6 	J:164563 	
+MGI:106035	Mki67	antigen identified by monoclonal antibody Ki 67	7		nucleolus	is a part of 4-8 cell stage embryo,is a part of early embryonic cell (metazoa)|is a part of 2-cell stage embryo,is a part of early embryonic cell (metazoa)		IDA		J:91494 	
+MGI:106035	Mki67	antigen identified by monoclonal antibody Ki 67	7		nucleolus			IDA		J:80451 	
+MGI:106035	Mki67	antigen identified by monoclonal antibody Ki 67	7		nucleolus			ISO	P46013 	J:164563 	
+MGI:1927238	Mllt1	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 1	17		fibrillar center			ISO	Q03111 	J:164563 	
+MGI:3780953	Mndal	myeloid nuclear differentiation antigen like	1		nucleolus			IBA	PTN000258203 	J:265628 	
+MGI:3780953	Mndal	myeloid nuclear differentiation antigen like	1		nucleolus			ISO	P41218 	J:164563 	
+MGI:3780953	Mndal	myeloid nuclear differentiation antigen like	1		nucleolus			ISO	Q6K0P9 	J:164563 	
+MGI:109160	Mnx1	motor neuron and pancreas homeobox 1	5		nucleolus			ISO	P50219 	J:164563 	
+MGI:2442631	Mob1a	MOB kinase activator 1A	6		nucleolus			ISO	Q9H8S9 	J:164563 	
+MGI:1915723	Mob1b	MOB kinase activator 1B	5		nucleolus			ISO	Q7L9L4 	J:164563 	
+MGI:1919891	Mob2	MOB kinase activator 2	7		nucleolus			ISO	Q70IA6 	J:164563 	
+MGI:1927167	Morf4l2	mortality factor 4 like 2	X		nucleolus			ISO	Q15014 	J:164563 	
+MGI:1915783	Mphosph6	M phase phosphoprotein 6	8		nucleolus			ISO	Q99547 	J:164563 	
+MGI:1922589	Mphosph8	M-phase phosphoprotein 8	14		nucleolus			ISO	Q99549 	J:164563 	
+MGI:1915223	Mphosph10	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)	7		Mpp10 complex			IBA	PTN000424645 	J:265628 	
+MGI:1915223	Mphosph10	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)	7		nucleolus			ISO	O00566 	J:164563 	
+MGI:1915123	Mri1	methylthioribose-1-phosphate isomerase 1	8		fibrillar center			ISO	Q9BV20 	J:164563 	
+MGI:1915267	Mrm2	mitochondrial rRNA methyltransferase 2	5		nucleolus			ISO	Q9UI43 	J:164563 	
+MGI:2152817	Mro	maestro	18		nucleolus			IDA		J:84943 	
+MGI:1196612	Mrpl23	mitochondrial ribosomal protein L23	7		fibrillar center			ISO	Q16540 	J:164563 	
+MGI:1332635	Mrpl40	mitochondrial ribosomal protein L40	16		nucleolus			ISO	Q9NQ50 	J:164563 	
+MGI:1916777	Mrps9	mitochondrial ribosomal protein S9	1		nucleolus			ISO	P82933 	J:164563 	
+MGI:1913657	Mrps15	mitochondrial ribosomal protein S15	4		nucleolus			ISO	P82914 	J:164563 	
+MGI:1919064	Mrps27	mitochondrial ribosomal protein S27	13		nucleolus			ISO	Q92552 	J:164563 	
+MGI:1913153	Mrps31	mitochondrial ribosomal protein S31	8		nucleolus			ISO	Q92665 	J:164563 	
+MGI:1917152	Mrto4	mRNA turnover 4, ribosome maturation factor	4		nucleolus			IBA	PTN000474869 	J:265628 	
+MGI:1914404	Mtdh	metadherin	15		fibrillar center			ISO	Q86UE4 	J:164563 	
+MGI:1914404	Mtdh	metadherin	15		nucleolus			IDA		J:88334 J:151167 	
+MGI:2142572	Mtus1	mitochondrial tumor suppressor 1	8		nucleolus			ISO	Q9ULD2 	J:164563 	
+MGI:1859652	Mtx2	metaxin 2	2		nucleolus			ISO	O75431 	J:164563 	
+MGI:97245	Mxi1	MAX interactor 1, dimerization protein	19		nucleolus			ISO	P50539 	J:164563 	
+MGI:106181	Mybbp1a	MYB binding protein (P160) 1a	11		B-WICH complex			ISO	Q9BQG0 	J:164563 	
+MGI:106181	Mybbp1a	MYB binding protein (P160) 1a	11		nucleolus			IBA	PTN000324922 	J:265628 	
+MGI:106181	Mybbp1a	MYB binding protein (P160) 1a	11		nucleolus			IC		J:319968 	
+MGI:106181	Mybbp1a	MYB binding protein (P160) 1a	11		nucleolus			IDA		J:114101 J:173042 	
+MGI:106181	Mybbp1a	MYB binding protein (P160) 1a	11		nucleolus			ISO	Q9BQG0 	J:164563 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		nucleolus			ISO	RGD:3130 	J:155856 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		nucleolus			ISO	P01106 	J:164563 	
+MGI:97357	Mycn	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived	12		nucleolus			ISO	P04198 	J:164563 	
+MGI:1332242	Mycs	myc-like oncogene, s-myc protein	X		nucleolus			ISO	P04198 	J:164563 	
+MGI:106612	Myo1c	myosin IC	11		B-WICH complex			ISO	O00159 	J:164563 	
+MGI:106612	Myo1c	myosin IC	11		nucleolus			IC		J:319968 	
+MGI:107716	Myo10	myosin X	15		nucleolus			ISO	Q9HD67 	J:164563 	
+MGI:2444584	Mysm1	myb-like, SWIRM and MPN domains 1	4		nucleolus			ISO	Q5VVJ2 	J:164563 	
+MGI:2136825	N4bp1	NEDD4 binding protein 1	8		nucleolus			IDA		J:159635 	
+MGI:1915255	Naa10	N(alpha)-acetyltransferase 10, NatA catalytic subunit	X		nucleolus			ISO	P41227 	J:164563 	
+MGI:1919367	Naa50	N(alpha)-acetyltransferase 50, NatE catalytic subunit	16		nucleolus			ISO	Q9GZZ1 	J:164563 	
+MGI:1915241	Nacc2	nucleus accumbens associated 2, BEN and BTB (POZ) domain containing	2		nucleolus			ISO	Q96BF6 	J:164563 	
+MGI:1919200	Nanog	Nanog homeobox	6		nucleolus			ISO	Q9H9S0 	J:164563 	
+MGI:1914858	Narf	nuclear prelamin A recognition factor	11		nucleolus			ISO	Q9UHQ1 	J:164563 	
+MGI:2138939	Nat10	N-acetyltransferase 10	2		nucleolus			IBA	PTN000100787 	J:265628 	
+MGI:2138939	Nat10	N-acetyltransferase 10	2		nucleolus			ISO	Q9H0A0 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		nucleolus			ISO	O60934 	J:164563 	
+MGI:97286	Ncl	nucleolin	1		dense fibrillar component			ISO	RGD:3153 	J:155856 	
+MGI:97286	Ncl	nucleolin	1		fibrillar center			ISO	RGD:3153 	J:155856 	
+MGI:97286	Ncl	nucleolin	1		nucleolus	is a part of 2-cell stage embryo|is a part of 4-8 cell stage embryo|is a part of compacted morula		IDA		J:32712 	
+MGI:97286	Ncl	nucleolin	1		nucleolus			IDA		J:87744 J:92518 J:128459 J:204475 	
+MGI:97286	Ncl	nucleolin	1		nucleolus			ISO	RGD:3153 	J:155856 	
+MGI:97286	Ncl	nucleolin	1		nucleolus			ISO	P19338 	J:73065 	
+MGI:97293	Nedd1	neural precursor cell expressed, developmentally down-regulated gene 1	10		fibrillar center			ISO	Q8NHV4 	J:164563 	
+MGI:2442276	Nek11	NIMA (never in mitosis gene a)-related expressed kinase 11	9		nucleolus			ISO	Q8NG66 	J:164563 	
+MGI:2384836	Nepro	nucleolus and neural progenitor protein	16		nucleolus			IDA		J:223645 	
+MGI:97307	Nf2	neurofibromin 2	11		nucleolus			ISO	P35240 	J:164563 	
+MGI:103188	Nfib	nuclear factor I/B	4		fibrillar center			ISO	O00712 	J:164563 	
+MGI:109591	Nfic	nuclear factor I/C	10		fibrillar center			ISO	P08651 	J:164563 	
+MGI:1194908	Nfkbie	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, epsilon	17		fibrillar center			ISO	O00221 	J:164563 	
+MGI:1921414	Nfx1	nuclear transcription factor, X-box binding 1	4		nucleolus			ISO	Q12986 	J:164563 	
+MGI:1916216	Ngdn	neuroguidin, EIF4E binding protein	14		nucleolus			IBA	PTN000326128 	J:265628 	
+MGI:1916216	Ngdn	neuroguidin, EIF4E binding protein	14		nucleolus			ISO	Q8NEJ9 	J:164563 	
+MGI:1922820	Nhej1	non-homologous end joining factor 1	1		fibrillar center			ISO	Q9H9Q4 	J:164563 	
+MGI:1098547	Nhp2	NHP2 ribonucleoprotein	11		box H/ACA snoRNP complex			IBA	PTN000560394 	J:265628 	
+MGI:1098547	Nhp2	NHP2 ribonucleoprotein	11		box H/ACA snoRNP complex			ISO	RGD:1309435 	J:155856 	
+MGI:1098547	Nhp2	NHP2 ribonucleoprotein	11		box H/ACA snoRNP complex			ISO	Q9NX24 	J:164563 	
+MGI:1098547	Nhp2	NHP2 ribonucleoprotein	11		nucleolus			IEA	IPR002415 	J:72247 	
+MGI:1915199	Nifk	nucleolar protein interacting with the FHA domain of MKI67	1		nucleolus			IBA	PTN002549347 	J:265628 	
+MGI:1915199	Nifk	nucleolar protein interacting with the FHA domain of MKI67	1		nucleolus			ISO	AB044971 	J:70337 	
+MGI:1915199	Nifk	nucleolar protein interacting with the FHA domain of MKI67	1		nucleolus			ISO	Q9BYG3 	J:164563 	
+MGI:105108	Nin	ninein	12		nucleolus			ISO	Q8N4C6 	J:164563 	
+MGI:1913414	Nip7	NIP7, nucleolar pre-rRNA processing protein	8		nucleolus			IBA	PTN000602113 	J:265628 	
+MGI:1913414	Nip7	NIP7, nucleolar pre-rRNA processing protein	8		nucleolus			ISO	Q9Y221 	J:164563 	
+MGI:1924536	Nkrf	NF-kappaB repressing factor	X		nucleolus			IBA	PTN000414335 	J:265628 	
+MGI:1924536	Nkrf	NF-kappaB repressing factor	X		nucleolus			ISO	O15226 	J:164563 	
+MGI:2429770	Nle1	notchless homolog 1	11		nucleolus			IBA	PTN000457354 	J:265628 	
+MGI:2429770	Nle1	notchless homolog 1	11		nucleolus			IDA		J:204603 	
+MGI:2429770	Nle1	notchless homolog 1	11		nucleolus			ISO	Q9NVX2 	J:164563 	
+MGI:1345193	Nlrp5	NLR family, pyrin domain containing 5	7		nucleolus			IDA		J:88687 	
+MGI:2140103	Nmd3	NMD3 ribosome export adaptor	3		nucleolus			ISO	Q96D46 	J:164563 	
+MGI:1914869	Nob1	NIN1/RPN12 binding protein 1 homolog	8		nucleolus			ISA	Q08444 	J:82336 	
+MGI:1931051	Noc2l	NOC2 like nucleolar associated transcriptional repressor	4		nucleolus			IBA	PTN000293925 	J:265628 	
+MGI:1931051	Noc2l	NOC2 like nucleolar associated transcriptional repressor	4		nucleolus			ISO	Q9Y3T9 	J:164563 	
+MGI:1932610	Noc3l	NOC3 like DNA replication regulator	19		nucleolus			IBA	PTN000374010 	J:265628 	
+MGI:1932610	Noc3l	NOC3 like DNA replication regulator	19		nucleolus			IDA		J:94212 	
+MGI:1932610	Noc3l	NOC3 like DNA replication regulator	19		nucleolus			ISO	Q8WTT2 	J:164563 	
+MGI:2140843	Noc4l	NOC4 like	5		nucleolus			IBA	PTN000278911 	J:265628 	
+MGI:2140843	Noc4l	NOC4 like	5		nucleolus			ISO	Q9BVI4 	J:164563 	
+MGI:1925938	Nol3	nucleolar protein 3 (apoptosis repressor with CARD domain)	8		nucleolus			ISO	O60936 	J:164563 	
+MGI:2441684	Nol4	nucleolar protein 4	18		nucleolus			IEA	IPR026747 	J:72247 	
+MGI:2140151	Nol6	nucleolar protein family 6 (RNA-associated)	4		nucleolus			IDA		J:76634 	
+MGI:2140151	Nol6	nucleolar protein family 6 (RNA-associated)	4		nucleolus			ISO	Q9H6R4 	J:164563 	
+MGI:2140151	Nol6	nucleolar protein family 6 (RNA-associated)	4		UTP-C complex			IBA	PTN000427561 	J:265628 	
+MGI:1917328	Nol7	nucleolar protein 7	13		nucleolus			ISO	Q9UMY1 	J:164563 	
+MGI:1918180	Nol8	nucleolar protein 8	13		nucleolus			IBA	PTN004471909 	J:265628 	
+MGI:1918180	Nol8	nucleolar protein 8	13		nucleolus			ISO	Q76FK4 	J:164563 	
+MGI:1921285	Nol9	nucleolar protein 9	4		nucleolus			ISO	Q5SY16 	J:164563 	
+MGI:2684913	Nol10	nucleolar protein 10	12		nucleolus			IBA	PTN000383164 	J:265628 	
+MGI:2684913	Nol10	nucleolar protein 10	12		nucleolus			ISO	Q9BSC4 	J:164563 	
+MGI:1916229	Nol11	nucleolar protein 11	11		nucleolus			IBA	PTN001437223 	J:265628 	
+MGI:1916229	Nol11	nucleolar protein 11	11		nucleolus			ISO	Q9H8H0 	J:164563 	
+MGI:1916229	Nol11	nucleolar protein 11	11		t-UTP complex			ISO	Q9H8H0 	J:164563 	
+MGI:2146285	Nol12	nucleolar protein 12	15		nucleolus			IBA	PTN000377916 	J:265628 	
+MGI:2146285	Nol12	nucleolar protein 12	15		nucleolus			IDA		J:107895 	
+MGI:2146285	Nol12	nucleolar protein 12	15		nucleolus			ISO	RGD:1305327 	J:155856 	
+MGI:2146285	Nol12	nucleolar protein 12	15		nucleolus			ISO	Q5D1Z3 	J:107895 	
+MGI:1918019	Nolc1	nucleolar and coiled-body phosphoprotein 1	19		box H/ACA snoRNP complex			ISO	RGD:621578 	J:155856 	
+MGI:1918019	Nolc1	nucleolar and coiled-body phosphoprotein 1	19		fibrillar center			ISO	Q14978 	J:164563 	
+MGI:1918019	Nolc1	nucleolar and coiled-body phosphoprotein 1	19		nucleolus			IBA	PTN001144152 	J:265628 	
+MGI:1918019	Nolc1	nucleolar and coiled-body phosphoprotein 1	19		nucleolus			IDA		J:70593 	
+MGI:1918019	Nolc1	nucleolar and coiled-body phosphoprotein 1	19		nucleolus			ISO	RGD:621578 	J:155856 	
+MGI:1861749	Nom1	nucleolar protein with MIF4G domain 1	5		nucleolus			IBA	PTN000427762 	J:265628 	
+MGI:1861749	Nom1	nucleolar protein with MIF4G domain 1	5		nucleolus			ISO	Q5C9Z4 	J:164563 	
+MGI:1855692	Nono	non-POU-domain-containing, octamer binding protein	X		fibrillar center			ISO	Q15233 	J:164563 	
+MGI:107891	Nop2	NOP2 nucleolar protein	6		nucleolus			IBA	PTN000515974 	J:265628 	
+MGI:107891	Nop2	NOP2 nucleolar protein	6		nucleolus			ISO	P46087 	J:164563 	
+MGI:1915092	Nop9	NOP9 nucleolar protein	14		nucleolus			IBA	PTN000318455 	J:265628 	
+MGI:1913431	Nop10	NOP10 ribonucleoprotein	2		box H/ACA snoRNP complex			IBA	PTN000329686 	J:265628 	
+MGI:1913431	Nop10	NOP10 ribonucleoprotein	2		box H/ACA snoRNP complex			ISO	RGD:1582780 	J:155856 	
+MGI:1913431	Nop10	NOP10 ribonucleoprotein	2		box H/ACA snoRNP complex			ISO	Q9NPE3 	J:164563 	
+MGI:1922666	Nop14	NOP14 nucleolar protein	5		nucleolus			IBA	PTN000573053 	J:265628 	
+MGI:1922666	Nop14	NOP14 nucleolar protein	5		nucleolus			ISO	P78316 	J:164563 	
+MGI:107862	Nop16	NOP16 nucleolar protein	13		nucleolus			IBA	PTN000997248 	J:265628 	
+MGI:107862	Nop16	NOP16 nucleolar protein	13		nucleolus			ISO	Q9Y3C1 	J:164563 	
+MGI:2154441	Nop53	NOP53 ribosome biogenesis factor	7		fibrillar center			ISO	Q9NZM5 	J:164563 	
+MGI:2154441	Nop53	NOP53 ribosome biogenesis factor	7		nucleolus			IBA	PTN000368190 	J:265628 	
+MGI:2154441	Nop53	NOP53 ribosome biogenesis factor	7		nucleolus			IDA		J:241062 	
+MGI:2154441	Nop53	NOP53 ribosome biogenesis factor	7		nucleolus			ISO	Q9NZM5 	J:164563 	
+MGI:1914384	Nop56	NOP56 ribonucleoprotein	2		fibrillar center			ISO	O00567 	J:164563 	
+MGI:1933184	Nop58	NOP58 ribonucleoprotein	1		fibrillar center			ISO	Q9Y2X3 	J:164563 	
+MGI:1933184	Nop58	NOP58 ribonucleoprotein	1		nucleolus			ISO	Q9Y2X3 	J:164563 	
+MGI:97362	Nos3	nitric oxide synthase 3, endothelial cell	5		nucleolus			ISO	RGD:3186 	J:155856 	
+MGI:104297	Nova1	NOVA alternative splicing regulator 1	12		nucleolus			ISO	P51513 	J:164563 	
+MGI:106184	Npm1	nucleophosmin 1	11		granular component	is a part of fibroblast		IDA		J:94174 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus			IBA	PTN001100765 	J:265628 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus	is a part of 2-cell stage embryo|is a part of 4-8 cell stage embryo|is a part of compacted morula		IDA		J:32712 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus	is a part of 4-8 cell stage embryo		IDA		J:130226 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus	is a part of skin,is a part of fibroblast		IDA		J:103773 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus	is a part of crypt of lieberkuhn,is a part of columnar/cuboidal epithelial cell		IDA		J:103132 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus	is a part of oocyte		IDA		J:114487 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus	is a part of fibroblast		IDA		J:94174 J:94965 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus			IDA		J:64959 J:80713 J:96946 J:99711 J:100984 J:109067 J:138546 J:142821 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus			ISO	RGD:3192 	J:155856 	
+MGI:106184	Npm1	nucleophosmin 1	11		nucleolus			ISO	P06748 	J:69659 J:73065 J:117454 	
+MGI:1890811	Npm2	nucleophosmin/nucleoplasmin 2	14		nucleolus			IBA	PTN001100765 	J:265628 	
+MGI:894653	Npm3	nucleoplasmin 3	19		nucleolus			IBA	PTN001100765 	J:265628 	
+MGI:894653	Npm3	nucleoplasmin 3	19		nucleolus			IDA		J:96946 	
+MGI:894653	Npm3	nucleoplasmin 3	19		nucleolus			ISO	O75607 	J:164563 	
+MGI:2670969	Nrde2	nrde-2 necessary for RNA interference, domain containing	12		nucleolus			ISO	Q9H7Z3 	J:164563 	
+MGI:1315213	Nrip1	nuclear receptor interacting protein 1	16		fibrillar center			ISO	P48552 	J:164563 	
+MGI:1315213	Nrip1	nuclear receptor interacting protein 1	16		nucleolus			ISO	P48552 	J:164563 	
+MGI:1096391	Nrxn1	neurexin I	17		nucleolus			ISO	Q9ULB1 	J:164563 	
+MGI:107252	Nsun2	NOL1/NOP2/Sun domain family member 2	13		nucleolus			ISO	Q08J23 	J:164563 	
+MGI:2140844	Nsun5	NOL1/NOP2/Sun domain family, member 5	5		nucleolus			IBA	PTN000515911 	J:265628 	
+MGI:2140844	Nsun5	NOL1/NOP2/Sun domain family, member 5	5		nucleolus			ISO	Q96P11 	J:164563 	
+MGI:1925226	Nuak1	NUAK family, SNF1-like kinase, 1	10		fibrillar center			ISO	O60285 	J:164563 	
+MGI:1889001	Nub1	negative regulator of ubiquitin-like proteins 1	5		nucleolus			ISO	Q9Y5A7 	J:164563 	
+MGI:1934811	Nucks1	nuclear casein kinase and cyclin-dependent kinase substrate 1	1		nucleolus			ISO	Q9H1E3 	J:164563 	
+MGI:1922936	Nudt16	nudix (nucleoside diphosphate linked moiety X)-type motif 16	9		nucleolus			ISO	Q96DE0 	J:164563 	
+MGI:1920782	Nudt16l2	nudix (nucleoside diphosphate linked moiety X)-type motif 16-like 2	9		nucleolus			ISO	Q96DE0 	J:164563 	
+MGI:1351474	Nufip1	nuclear fragile X mental retardation protein interacting protein 1	14		fibrillar center			ISO	Q9UHK0 	J:164563 	
+MGI:1351474	Nufip1	nuclear fragile X mental retardation protein interacting protein 1	14		nucleolus			ISO	Q9UHK0 	J:164563 	
+MGI:1351474	Nufip1	nuclear fragile X mental retardation protein interacting protein 1	14		nucleolus			ISS	Q9UHK0 	J:58813 	
+MGI:2385621	Nup153	nucleoporin 153	13		nucleolus			ISO	P49790 	J:164563 	
+MGI:2675669	Nusap1	nucleolar and spindle associated protein 1	2		nucleolus			IBA	PTN001286938 	J:265628 	
+MGI:2675669	Nusap1	nucleolar and spindle associated protein 1	2		nucleolus			IDA		J:85504 	
+MGI:1914709	Nvl	nuclear VCP-like	1	colocalizes_with	nucleolus			ISO	O15381 	J:164563 	
+MGI:1914709	Nvl	nuclear VCP-like	1		nucleolus			ISO	O15381 	J:164563 	
+MGI:2442268	Nwd1	NACHT and WD repeat domain containing 1	8		nucleolus			ISO	Q149M9 	J:164563 	
+MGI:2146818	Oard1	O-acyl-ADP-ribose deacylase 1	17		nucleolus			ISO	Q9Y530 	J:164563 	
+MGI:2180849	Oasl1	2'-5' oligoadenylate synthetase-like 1	5		nucleolus			ISO	Q15646 	J:164563 	
+MGI:1347043	Orc4	origin recognition complex, subunit 4	2		nucleolus			ISO	O43929 	J:164563 	
+MGI:1929285	Orc6	origin recognition complex, subunit 6	8		fibrillar center			ISO	Q9Y5N6 	J:164563 	
+MGI:97447	Osbp	oxysterol binding protein	19		nucleolus			ISO	P22059 	J:164563 	
+MGI:99835	Otp	orthopedia homeobox	13		fibrillar center			ISO	Q5XKR4 	J:164563 	
+MGI:2179326	Oxr1	oxidation resistance 1	15		nucleolus			IDA		J:74707 	
+MGI:2179326	Oxr1	oxidation resistance 1	15		nucleolus			ISO	RGD:621857 	J:155856 	
+MGI:894684	Pa2g4	proliferation-associated 2G4	10		nucleolus			ISO	RGD:1302994 	J:155856 	
+MGI:894684	Pa2g4	proliferation-associated 2G4	10		nucleolus			ISO	Q9UQ80 	J:164563 	
+MGI:108415	Pafah1b2	platelet-activating factor acetylhydrolase, isoform 1b, subunit 2	9		fibrillar center			ISO	P68402 	J:164563 	
+MGI:108415	Pafah1b2	platelet-activating factor acetylhydrolase, isoform 1b, subunit 2	9		nucleolus			ISO	P68402 	J:164563 	
+MGI:1915333	Pak1ip1	PAK1 interacting protein 1	13		nucleolus			IDA		J:204457 	
+MGI:1915333	Pak1ip1	PAK1 interacting protein 1	13		nucleolus			ISO	Q9NWT1 	J:164563 	
+MGI:2679420	Pak6	p21 (RAC1) activated kinase 6	2		fibrillar center			ISO	Q9NQU5 	J:164563 	
+MGI:1921358	Parn	poly(A)-specific ribonuclease (deadenylation nuclease)	16		nucleolus			ISO	O95453 	J:164563 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		nucleolus			IBA	PTN000396992 	J:265628 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		nucleolus			IDA		J:94965 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		nucleolus			ISO	P09874 	J:164563 	
+MGI:1341112	Parp2	poly (ADP-ribose) polymerase family, member 2	14		nucleolus			IBA	PTN000396992 	J:265628 	
+MGI:1341112	Parp2	poly (ADP-ribose) polymerase family, member 2	14		nucleolus	is a part of fibroblast		IDA		J:94965 	
+MGI:1341112	Parp2	poly (ADP-ribose) polymerase family, member 2	14		nucleolus			ISO	Q9UGN5 	J:73065 	
+MGI:1891258	Parp3	poly (ADP-ribose) polymerase family, member 3	9		nucleolus			IBA	PTN000396992 	J:265628 	
+MGI:3712326	Parp10	poly (ADP-ribose) polymerase family, member 10	15		nucleolus			ISO	Q53GL7 	J:164563 	
+MGI:97489	Pax5	paired box 5	4		fibrillar center			ISO	Q02548 	J:164563 	
+MGI:97493	Pax9	paired box 9	12		nucleolus			ISO	P55771 	J:164563 	
+MGI:104692	Pcdh1	protocadherin 1	18		nucleolus			ISO	Q08174 	J:164563 	
+MGI:1341788	Pdcd11	programmed cell death 11	19		nucleolus			IBA	PTN000588341 	J:265628 	
+MGI:97532	Pdha1	pyruvate dehydrogenase E1 alpha 1	X		nucleolus			ISO	P08559 	J:164563 	
+MGI:97533	Pdha2	pyruvate dehydrogenase E1 alpha 2	3		nucleolus			ISO	P29803 	J:164563 	
+MGI:2384308	Pdk3	pyruvate dehydrogenase kinase, isoenzyme 3	X		nucleolus			ISO	Q15120 	J:164563 	
+MGI:1922523	Pelp1	proline, glutamic acid and leucine rich protein 1	11		nucleolus			ISO	Q8IZL8 	J:164563 	
+MGI:1890613	Pes1	pescadillo ribosomal biogenesis factor 1	11		nucleolus			IDA		J:80174 J:91121 	
+MGI:1890613	Pes1	pescadillo ribosomal biogenesis factor 1	11		nucleolus			ISO	O00541 	J:73065 	
+MGI:1890613	Pes1	pescadillo ribosomal biogenesis factor 1	11		PeBoW complex			IBA	PTN000259535 	J:265628 	
+MGI:1890613	Pes1	pescadillo ribosomal biogenesis factor 1	11		PeBoW complex			IDA		J:113462 	
+MGI:1890613	Pes1	pescadillo ribosomal biogenesis factor 1	11		PeBoW complex			ISO	O00541 	J:164563 	
+MGI:1927868	Pex14	peroxisomal biogenesis factor 14	4		fibrillar center			ISO	O75381 	J:164563 	
+MGI:1338034	Phf2	PHD finger protein 2	13		nucleolus			ISO	O75151 	J:164563 	
+MGI:2156864	Phf5a	PHD finger protein 5A	15	NOT	nucleolus			IDA		J:76650 	
+MGI:1918248	Phf6	PHD finger protein 6	X		nucleolus			ISO	Q8IWS0 	J:164563 	
+MGI:2444341	Phf8	PHD finger protein 8	X		nucleolus			ISO	Q9UPP1 	J:164563 	
+MGI:1096880	Phlda1	pleckstrin homology like domain, family A, member 1	10		nucleolus			ISO	Q8WV24 	J:164563 	
+MGI:1889507	Pidd1	p53 induced death domain protein 1	7		nucleolus			IC		J:246097 	
+MGI:1916095	Pih1d1	PIH1 domain containing 1	7		nucleolus			ISO	Q9NWS0 	J:164563 	
+MGI:1922019	Pik3cb	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	9		nucleolus			ISO	P42338 	J:164563 	
+MGI:97584	Pim1	proviral integration site 1	17		nucleolus			ISO	P11309 	J:164563 	
+MGI:1924434	Pimreg	PICALM interacting mitotic regulator	11		nucleolus			ISO	Q9BSJ6 	J:164563 	
+MGI:1916963	Pin4	peptidyl-prolyl cis/trans isomerase, NIMA-interacting, 4 (parvulin)	X		nucleolus			ISO	Q9Y237 	J:164563 	
+MGI:1919650	Pinx1	PIN2/TERF1 interacting, telomerase inhibitor 1	14		nucleolus			IBA	PTN000567695 	J:265628 	
+MGI:1919650	Pinx1	PIN2/TERF1 interacting, telomerase inhibitor 1	14		nucleolus			ISO	Q96BK5 	J:72504 J:164563 	
+MGI:2137630	Pkmyt1	protein kinase, membrane associated tyrosine/threonine 1	17		nucleolus			ISO	Q99640 	J:164563 	
+MGI:2150308	Plcz1	phospholipase C, zeta 1	6		nucleolus			IDA		J:257332 	
+MGI:2443207	Plekhm1	pleckstrin homology domain containing, family M (with RUN domain) member 1	11		nucleolus			ISO	Q9Y4G2 	J:164563 	
+MGI:109604	Plk3	polo like kinase 3	4		nucleolus			ISO	Q9H4B4 	J:164563 	
+MGI:101783	Plk4	polo like kinase 4	3		nucleolus			IDA		J:152657 	
+MGI:3026984	Plk5	polo like kinase 5	10		nucleolus			IDA		J:173149 	
+MGI:1858197	Plrg1	pleiotropic regulator 1	3		fibrillar center			ISO	O43660 	J:164563 	
+MGI:893575	Plscr1	phospholipid scramblase 1	9		nucleolus			ISO	O15162 	J:164563 	
+MGI:1270860	Plscr2	phospholipid scramblase 2	9		nucleolus			ISO	O15162 	J:164563 	
+MGI:104662	Pml	promyelocytic leukemia	9		nucleolus			ISO	P29590 	J:164563 	
+MGI:1891698	Pnkp	polynucleotide kinase 3'- phosphatase	7		nucleolus			ISO	Q96T60 	J:164563 	
+MGI:2180564	Pnma1	paraneoplastic antigen MA1	12		nucleolus			ISO	Q8ND90 	J:164563 	
+MGI:1913499	Pno1	partner of NOB1 homolog	11		nucleolus			IBA	PTN000981817 	J:265628 	
+MGI:1913499	Pno1	partner of NOB1 homolog	11		nucleolus			ISO	Q9NRX1 	J:164563 	
+MGI:1351317	Podxl	podocalyxin-like	6		nucleolus			ISO	O00592 	J:164563 	
+MGI:99660	Pola1	polymerase (DNA directed), alpha 1	X		nucleolus			ISO	P09884 	J:164563 	
+MGI:1096397	Polr1a	polymerase (RNA) I polypeptide A	6		RNA polymerase I complex			IBA	PTN000453524 	J:265628 	
+MGI:1096397	Polr1a	polymerase (RNA) I polypeptide A	6		RNA polymerase I complex			IDA		J:41855 J:91576 	
+MGI:1096397	Polr1a	polymerase (RNA) I polypeptide A	6		RNA polymerase I complex			ISO	RGD:620824 	J:155856 	
+MGI:108014	Polr1b	polymerase (RNA) I polypeptide B	2		fibrillar center			ISO	Q9H9Y6 	J:164563 	
+MGI:108014	Polr1b	polymerase (RNA) I polypeptide B	2		nucleolus			IDA		J:78329 	
+MGI:108014	Polr1b	polymerase (RNA) I polypeptide B	2		RNA polymerase I complex			IBA	PTN000465942 	J:265628 	
+MGI:108014	Polr1b	polymerase (RNA) I polypeptide B	2		RNA polymerase I complex			IDA		J:41855 	
+MGI:108014	Polr1b	polymerase (RNA) I polypeptide B	2		RNA polymerase I complex			ISO	RGD:620822 	J:155856 	
+MGI:103288	Polr1c	polymerase (RNA) I polypeptide C	17		fibrillar center			ISO	O15160 	J:164563 	
+MGI:103288	Polr1c	polymerase (RNA) I polypeptide C	17		RNA polymerase I complex			IBA	PTN000210383 	J:265628 	
+MGI:103288	Polr1c	polymerase (RNA) I polypeptide C	17		RNA polymerase I complex			IDA		J:21850 	
+MGI:108403	Polr1d	polymerase (RNA) I polypeptide D	5		RNA polymerase I complex			IBA	PTN000358824 	J:265628 	
+MGI:108403	Polr1d	polymerase (RNA) I polypeptide D	5		RNA polymerase I complex			IDA		J:91576 	
+MGI:1929022	Polr1e	polymerase (RNA) I polypeptide E	4		fibrillar center			ISO	Q9GZS1 	J:164563 	
+MGI:1929022	Polr1e	polymerase (RNA) I polypeptide E	4		nucleolus			IDA		J:66339 J:78329 	
+MGI:1929022	Polr1e	polymerase (RNA) I polypeptide E	4		RNA polymerase I complex			IBA	PTN000374345 	J:265628 	
+MGI:1929022	Polr1e	polymerase (RNA) I polypeptide E	4		RNA polymerase I complex			IDA		J:66339 	
+MGI:106292	Polr1f	RNA polymerase I subunit F	12		RNA polymerase I complex			IBA	PTN001398707 	J:265628 	
+MGI:1913386	Polr1h	RNA polymerase I subunit H	17		RNA polymerase I complex			IBA	PTN000133053 	J:265628 	
+MGI:98086	Polr2a	polymerase (RNA) II (DNA directed) polypeptide A	11	NOT	nucleolus			ISO	P24928 	J:101015 	
+MGI:1913670	Polr2e	polymerase (RNA) II (DNA directed) polypeptide E	10		RNA polymerase I complex			IBA	PTN000056681 	J:265628 	
+MGI:1349393	Polr2f	polymerase (RNA) II (DNA directed) polypeptide F	15		fibrillar center			ISO	P61218 	J:164563 	
+MGI:1349393	Polr2f	polymerase (RNA) II (DNA directed) polypeptide F	15		RNA polymerase I complex			IBA	PTN000080812 	J:265628 	
+MGI:2384309	Polr2h	polymerase (RNA) II (DNA directed) polypeptide H	16		RNA polymerase I complex			IBA	PTN000099544 	J:265628 	
+MGI:102725	Polr2k	polymerase (RNA) II (DNA directed) polypeptide K	15		RNA polymerase I complex			IBA	PTN000248542 	J:265628 	
+MGI:1913741	Polr2l	polymerase (RNA) II (DNA directed) polypeptide L	7		RNA polymerase I complex			IBA	PTN000602008 	J:265628 	
+MGI:2444430	Pomt2	protein-O-mannosyltransferase 2	12		nucleolus			ISO	Q9UKY4 	J:164563 	
+MGI:1914974	Pop1	processing of precursor 1, ribonuclease P/MRP family, (S. cerevisiae)	15		nucleolar ribonuclease P complex			IBA	PTN000506667 	J:265628 	
+MGI:1914974	Pop1	processing of precursor 1, ribonuclease P/MRP family, (S. cerevisiae)	15		nucleolar ribonuclease P complex			ISO	Q99575 	J:164563 	
+MGI:1914974	Pop1	processing of precursor 1, ribonuclease P/MRP family, (S. cerevisiae)	15		nucleolus			ISO	Q99575 	J:164563 	
+MGI:1913411	Pop4	processing of precursor 4, ribonuclease P/MRP family, (S. cerevisiae)	7		nucleolus			ISO	O95707 	J:164563 	
+MGI:2151221	Pop5	processing of precursor 5, ribonuclease P/MRP family (S. cerevisiae)	5		nucleolar ribonuclease P complex			IBA	PTN000988691 	J:265628 	
+MGI:2151221	Pop5	processing of precursor 5, ribonuclease P/MRP family (S. cerevisiae)	5		nucleolar ribonuclease P complex			IDA		J:71040 	
+MGI:2151221	Pop5	processing of precursor 5, ribonuclease P/MRP family (S. cerevisiae)	5		nucleolus			ISO	Q969H6 	J:164563 	
+MGI:1921347	Pop7	processing of precursor 7, ribonuclease P family, (S. cerevisiae)	5		nucleolus			ISO	O75817 	J:164563 	
+MGI:102565	Pou2f3	POU domain, class 2, transcription factor 3	9		nucleolus			ISO	Q9UKI9 	J:164563 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		nucleolus	is a part of oocyte		IDA		J:200667 	
+MGI:1914988	Ppid	peptidylprolyl isomerase D (cyclophilin D)	3		nucleolus			ISO	Q08752 	J:164563 	
+MGI:101841	Ppm1b	protein phosphatase 1B, magnesium dependent, beta isoform	17		nucleolus			ISO	O75688 	J:164563 	
+MGI:1858214	Ppm1d	protein phosphatase 1D magnesium-dependent, delta isoform	11		nucleolus			ISO	O15297 	J:164563 	
+MGI:2444096	Ppm1e	protein phosphatase 1E (PP2C domain containing)	11		nucleolus			ISO	Q8WY54 	J:164563 	
+MGI:104872	Ppp1cc	protein phosphatase 1 catalytic subunit gamma	5		nucleolus			ISO	P36873 	J:164563 	
+MGI:1309528	Ppp1r12a	protein phosphatase 1, regulatory subunit 12A	10		nucleolus			ISO	O14974 	J:164563 	
+MGI:1918029	Prdm5	PR domain containing 5	6		nucleolus			ISO	Q9NQX1 	J:164563 	
+MGI:99523	Prdx1	peroxiredoxin 1	4		nucleolus			ISO	RGD:620039 	J:155856 	
+MGI:104779	Prkdc	protein kinase, DNA activated, catalytic polypeptide	16		nucleolus			ISO	P78527 	J:164563 	
+MGI:1914051	Prkrip1	Prkr interacting protein 1 (IL11 inducible)	5		nucleolus			IBA	PTN000337723 	J:265628 	
+MGI:1914051	Prkrip1	Prkr interacting protein 1 (IL11 inducible)	5		nucleolus			IDA		J:84115 	
+MGI:2139971	Prmt6	protein arginine N-methyltransferase 6	3		nucleolus			ISO	Q96LA8 	J:164563 	
+MGI:2384879	Prmt7	protein arginine N-methyltransferase 7	8		fibrillar center			ISO	Q9NVM4 	J:164563 	
+MGI:1925004	Prune2	prune homolog 2	19		nucleolus			ISO	Q8WUY3 	J:164563 	
+MGI:1913895	Pspc1	paraspeckle protein 1	14		fibrillar center			ISO	Q8WXF1 	J:164563 	
+MGI:95481	Ptk2	PTK2 protein tyrosine kinase 2	15		nucleolus			ISO	RGD:3443 	J:155856 	
+MGI:96055	Ptpn6	protein tyrosine phosphatase, non-receptor type 6	6		nucleolus			ISO	P29350 	J:164563 	
+MGI:103293	Ptpn13	protein tyrosine phosphatase, non-receptor type 13	5		fibrillar center			ISO	Q12923 	J:164563 	
+MGI:106253	Pum3	pumilio RNA-binding family member 3	19		nucleolus			IBA	PTN000333308 	J:265628 	
+MGI:106253	Pum3	pumilio RNA-binding family member 3	19		nucleolus			ISO	Q15397 	J:164563 	
+MGI:1929237	Pus1	pseudouridine synthase 1	5		nucleolus			IDA		J:92505 	
+MGI:1914735	Pwp1	PWP1 homolog, endonuclein	10		nucleolus			ISO	Q13610 	J:164563 	
+MGI:1341200	Pwp2	PWP2 periodic tryptophan protein homolog (yeast)	10		Pwp2p-containing subcomplex of 90S preribosome			IBA	PTN000458249 	J:265628 	
+MGI:1931465	Pycard	PYD and CARD domain containing	7		nucleolus			ISO	Q9ULZ3 	J:164563 	
+MGI:1925678	Pym1	PYM homolog 1, exon junction complex associated factor	10		nucleolus			ISO	Q9BRP8 	J:164563 	
+MGI:1929459	Rabgef1	RAB guanine nucleotide exchange factor (GEF) 1	5		nucleolus			ISO	Q9UJ41 	J:164563 	
+MGI:1333807	Rad17	RAD17 checkpoint clamp loader component	13		nucleolus			ISO	O75943 	J:164563 	
+MGI:1913929	Rae1	ribonucleic acid export 1	2		fibrillar center			ISO	P78406 	J:164563 	
+MGI:1922896	Rai14	retinoic acid induced 14	15		fibrillar center			ISO	Q9P0K7 	J:164563 	
+MGI:1333112	Ran	RAN, member RAS oncogene family	5		nucleolus			ISO	P62826 	J:164563 	
+MGI:97856	Rara	retinoic acid receptor, alpha	11		nucleolus			ISO	P10276 	J:164563 	
+MGI:1914297	Rars	arginyl-tRNA synthetase	11		nucleolus			ISO	P54136 	J:164563 	
+MGI:104605	Rasl2-9	RAS-like, family 2, locus 9	7		nucleolus			ISO	P62826 	J:164563 	
+MGI:1916145	Rasl11a	RAS-like, family 11, member A	5		nucleolus			IDA		J:158988 	
+MGI:1918367	Rbbp5	retinoblastoma binding protein 5, histone lysine methyltransferase complex subunit	1		nucleolus			ISO	Q15291 	J:164563 	
+MGI:1916376	Rbis	ribosomal biogenesis factor	3		nucleolus			IBA	PTN002179715 	J:265628 	
+MGI:1916376	Rbis	ribosomal biogenesis factor	3		nucleolus			ISO	Q8N0T1 	J:164563 	
+MGI:105085	Rbl2	RB transcriptional corepressor like 2	8		nucleolus			ISO	Q08999 	J:164563 	
+MGI:1100865	Rbm4	RNA binding motif protein 4	19		nucleolus			IDA		J:157800 	
+MGI:1100865	Rbm4	RNA binding motif protein 4	19		nucleolus			ISO	Q9BWF3 	J:164563 	
+MGI:1921361	Rbm19	RNA binding motif protein 19	5		nucleolus			IBA	PTN001924395 	J:265628 	
+MGI:1921361	Rbm19	RNA binding motif protein 19	5		nucleolus	is a part of crypt of lieberkuhn		IDA		J:103132 	
+MGI:1921361	Rbm19	RNA binding motif protein 19	5		nucleolus			ISO	Q9Y4C8 	J:164563 	
+MGI:2655711	Rbm28	RNA binding motif protein 28	6		nucleolus			ISO	Q9NW13 	J:164563 	
+MGI:1098653	Rbm34	RNA binding motif protein 34	8		nucleolus			ISO	P42696 	J:164563 	
+MGI:104732	Rbmy	RNA binding motif protein, Y chromosome	Y		nucleolus			ISO	A6NDE4 	J:164563 	
+MGI:104732	Rbmy	RNA binding motif protein, Y chromosome	Y		nucleolus			ISO	A6NEQ0 	J:164563 	
+MGI:104732	Rbmy	RNA binding motif protein, Y chromosome	Y		nucleolus			ISO	P0C7P1 	J:164563 	
+MGI:104732	Rbmy	RNA binding motif protein, Y chromosome	Y		nucleolus			ISO	P0DJD3 	J:164563 	
+MGI:104732	Rbmy	RNA binding motif protein, Y chromosome	Y		nucleolus			ISO	Q15415 	J:164563 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		nucleolus			ISO	Q06330 	J:164563 	
+MGI:1913275	Rcl1	RNA terminal phosphate cyclase-like 1	19		nucleolus			IBA	PTN000120385 	J:265628 	
+MGI:1913275	Rcl1	RNA terminal phosphate cyclase-like 1	19		nucleolus			IDA		J:65052 	
+MGI:1349765	Rcn2	reticulocalbin 2	9		nucleolus			ISO	Q14257 	J:164563 	
+MGI:1913849	Rdm1	RAD52 motif 1	11		nucleolus			IBA	PTN001259889 	J:265628 	
+MGI:1913849	Rdm1	RAD52 motif 1	11		nucleolus			ISO	Q8NG50 	J:164563 	
+MGI:2665139	Rerg	RAS-like, estrogen-regulated, growth-inhibitor	6		fibrillar center			ISO	Q96A58 	J:164563 	
+MGI:1913520	Retreg1	reticulophagy regulator 1	15		nucleolus			ISO	Q9H6L5 	J:164563 	
+MGI:1337131	Rev3l	REV3 like, DNA directed polymerase zeta catalytic subunit	10		nucleolus			IDA		J:100984 	
+MGI:1888981	Rexo2	RNA exonuclease 2	9		nucleolus			ISO	Q9Y3B8 	J:164563 	
+MGI:2684957	Rexo4	REX4, 3'-5' exonuclease	2		nucleolus			ISO	Q9GZR2 	J:164563 	
+MGI:1919402	Rexo5	RNA exonuclease 5	7		nucleolus			ISO	Q96IC2 	J:164563 	
+MGI:97891	Rfc1	replication factor C (activator 1) 1	5		nucleolus			ISO	RGD:620619 	J:155856 	
+MGI:2149590	Rfpl4	ret finger protein-like 4	7	NOT	nucleolus	is a part of oocyte		IDA		J:81361 	
+MGI:1913464	Rgcc	regulator of cell cycle	14		nucleolus			ISO	Q9H4X1 	J:164563 	
+MGI:1918979	Rgs12	regulator of G-protein signaling 12	5		nucleolus			ISO	O14924 	J:164563 	
+MGI:3613651	Rgs22	regulator of G-protein signalling 22	15		fibrillar center			ISO	Q8NE09 	J:164563 	
+MGI:1919202	Riox1	ribosomal oxygenase 1	12		nucleolar preribosome			ISS		J:90013 	
+MGI:1919202	Riox1	ribosomal oxygenase 1	12		nucleolus			IBA	PTN000318179 	J:265628 	
+MGI:1919202	Riox1	ribosomal oxygenase 1	12		nucleolus			IDA		J:90013 	
+MGI:1919202	Riox1	ribosomal oxygenase 1	12		nucleolus			ISO	Q9H6W3 	J:164563 	
+MGI:1914264	Riox2	ribosomal oxygenase 2	16		nucleolus			IBA	PTN000318179 	J:265628 	
+MGI:1914264	Riox2	ribosomal oxygenase 2	16		nucleolus			ISO	AB083189 	J:79117 	
+MGI:1914264	Riox2	ribosomal oxygenase 2	16		nucleolus			ISO	Q8IUF8 	J:164563 	
+MGI:1925927	Rnf20	ring finger protein 20	4		nucleolus			ISO	Q5VTR2 	J:164563 	
+MGI:1920257	Rnf169	ring finger protein 169	7		nucleolus			ISO	Q8NCN4 	J:164563 	
+MGI:1289196	Rnf213	ring finger protein 213	11		nucleolus			IBA	PTN002732068 	J:265628 	
+MGI:1289196	Rnf213	ring finger protein 213	11		nucleolus			ISO	Q63HN8 	J:164563 	
+MGI:1915147	Rnmt	RNA (guanine-7-) methyltransferase	18		fibrillar center			ISO	O43148 	J:164563 	
+MGI:104661	Rora	RAR-related orphan receptor alpha	9		nucleolus			ISO	P35398 	J:164563 	
+MGI:1916973	Rpain	RPA interacting protein	11		fibrillar center			ISO	Q86UA6 	J:164563 	
+MGI:2141142	Rpap2	RNA polymerase II associated protein 2	5		nucleolus			ISO	Q8IXW5 	J:164563 	
+MGI:1917535	Rpf1	ribosome production factor 1 homolog	3		nucleolus			IBA	PTN000506776 	J:265628 	
+MGI:1917535	Rpf1	ribosome production factor 1 homolog	3		nucleolus			ISO	Q9H9Y2 	J:164563 	
+MGI:1914489	Rpf2	ribosome production factor 2 homolog	10		nucleolus			IBA	PTN000296192 	J:265628 	
+MGI:1914489	Rpf2	ribosome production factor 2 homolog	10		nucleolus			ISO	Q9H7B2 	J:164563 	
+MGI:1351605	Rpl3	ribosomal protein L3	15		nucleolus			ISO	P39023 	J:164563 	
+MGI:102854	Rpl5	ribosomal protein L5	5		nucleolus			ISO	P46777 	J:164563 	
+MGI:108057	Rpl6	ribosomal protein L6	5		nucleolus			ISO	AY032864 	J:72889 	
+MGI:1353472	Rpl7a	ribosomal protein L7A	2		nucleolus			ISO	P62424 	J:164563 	
+MGI:1913479	Rpl7l1	ribosomal protein L7-like 1	17		nucleolus			IDA		J:215371 	
+MGI:1914275	Rpl11	ribosomal protein L11	4		nucleolus			IDA		J:169789 J:241062 	
+MGI:1914275	Rpl11	ribosomal protein L11	4		nucleolus			ISO	P62913 	J:164563 	
+MGI:98002	Rpl12	ribosomal protein L12	2		nucleolus			IDA		J:74290 	
+MGI:105922	Rpl13	ribosomal protein L13	8		nucleolus			ISO	P26373 	J:164563 	
+MGI:98003	Rpl18	ribosomal protein L18	7		nucleolus			ISO	Q07020 	J:164563 	
+MGI:98020	Rpl19	ribosomal protein L19	11		nucleolus			ISO	P84098 	J:164563 	
+MGI:1929455	Rpl23	ribosomal protein L23	11		nucleolus			IDA		J:74290 	
+MGI:1929455	Rpl23	ribosomal protein L23	11		nucleolus			ISO	P62829 	J:164563 	
+MGI:106022	Rpl26	ribosomal protein L26	11		nucleolus			ISO	P61254 	J:164563 	
+MGI:98036	Rpl27	ribosomal protein L27	11		nucleolus			ISO	P61353 	J:164563 	
+MGI:1860603	Rpl36	ribosomal protein L36	17		nucleolus			ISO	Q9Y3U8 	J:164563 	
+MGI:1914303	Rpp14	ribonuclease P 14 subunit	14		nucleolus			ISO	O95059 	J:164563 	
+MGI:1914926	Rpp21	ribonuclease P 21 subunit	17		nucleolar ribonuclease P complex			IBA	PTN000380877 	J:265628 	
+MGI:1859683	Rpp30	ribonuclease P/MRP 30 subunit	19		nucleolar ribonuclease P complex			IBA	PTN000315300 	J:265628 	
+MGI:2443607	Rpp38	ribonuclease P/MRP 38 subunit	2		fibrillar center			IBA	PTN005327064 	J:265628 	
+MGI:2443607	Rpp38	ribonuclease P/MRP 38 subunit	2		fibrillar center			ISO	P78345 	J:164563 	
+MGI:2443607	Rpp38	ribonuclease P/MRP 38 subunit	2		nucleolus			ISO	P78345 	J:164563 	
+MGI:1346084	Rpp40	ribonuclease P 40 subunit	13		nucleolar ribonuclease P complex			ISO	U94317 	J:62783 	
+MGI:1350917	Rps3	ribosomal protein S3	7		nucleolus			ISO	P23396 	J:164563 	
+MGI:1202063	Rps3a1	ribosomal protein S3A1	3		nucleolus			ISO	P61247 	J:164563 	
+MGI:1913434	Rps4l	ribosomal protein S4-like	6		nucleolus			IDA		J:197929 	
+MGI:98159	Rps6	ribosomal protein S6	4		nucleolus			ISO	P62753 	J:164563 	
+MGI:104557	Rps6ka3	ribosomal protein S6 kinase polypeptide 3	X		nucleolus			ISO	P51812 	J:164563 	
+MGI:1914321	Rps6ka6	ribosomal protein S6 kinase polypeptide 6	X		fibrillar center			ISO	Q9UK32 	J:164563 	
+MGI:1914321	Rps6ka6	ribosomal protein S6 kinase polypeptide 6	X		nucleolus			ISO	Q9UK32 	J:164563 	
+MGI:1333818	Rps7	ribosomal protein S7	12		nucleolus			ISO	P62081 	J:164563 	
+MGI:1924096	Rps9	ribosomal protein S9	7		nucleolus			ISO	P46781 	J:164563 	
+MGI:1914347	Rps10	ribosomal protein S10	17		nucleolus			ISO	P46783 	J:164563 	
+MGI:1915302	Rps13	ribosomal protein S13	7		nucleolus			IBA	PTN000223268 	J:265628 	
+MGI:1915302	Rps13	ribosomal protein S13	7		nucleolus			ISO	P62277 	J:164563 	
+MGI:98107	Rps14	ribosomal protein S14	18		nucleolus			ISO	P62263 	J:164563 	
+MGI:1333780	Rps19	ribosomal protein S19	7		nucleolus			ISO	P17074 	J:73065 	
+MGI:1333780	Rps19	ribosomal protein S19	7		nucleolus			ISO	P39019 	J:164563 	
+MGI:1913788	Rps19bp1	ribosomal protein S19 binding protein 1	15		nucleolus			IBA	PTN002833920 	J:265628 	
+MGI:1913788	Rps19bp1	ribosomal protein S19 binding protein 1	15		nucleolus			IDA		J:103797 	
+MGI:1913788	Rps19bp1	ribosomal protein S19 binding protein 1	15		nucleolus			ISO	Q86WX3 	J:164563 	
+MGI:1922867	Rps25	ribosomal protein S25	9		nucleolus			ISO	P62851 	J:164563 	
+MGI:2443664	Rreb1	ras responsive element binding protein 1	13		fibrillar center			ISO	Q92766 	J:164563 	
+MGI:1925255	Rrn3	RRN3 RNA polymerase I transcription factor homolog (yeast)	16		nucleolus			ISO	Q9NYV6 	J:164563 	
+MGI:1203500	Rrp1	ribosomal RNA processing 1	10		nucleolus			ISO	P56182 	J:164563 	
+MGI:1919712	Rrp1b	ribosomal RNA processing 1B	17		granular component			ISO	Q14684 	J:164563 	
+MGI:1919712	Rrp1b	ribosomal RNA processing 1B	17		nucleolus			ISO	Q14684 	J:164563 	
+MGI:1922028	Rrp7a	ribosomal RNA processing 7 homolog A	15		UTP-C complex			IBA	PTN000324102 	J:265628 	
+MGI:1914251	Rrp8	ribosomal RNA processing 8	7		eNoSc complex			ISO	O43159 	J:164563 	
+MGI:1914251	Rrp8	ribosomal RNA processing 8	7		nucleolus			IBA	PTN000300315 	J:265628 	
+MGI:1914251	Rrp8	ribosomal RNA processing 8	7		nucleolus			ISO	O43159 	J:164563 	
+MGI:2384313	Rrp9	ribosomal RNA processing 9, U3 small nucleolar RNA binding protein	9		nucleolus			ISO	O43818 	J:164563 	
+MGI:2147437	Rrp12	ribosomal RNA processing 12 homolog	19		nucleolus			IBA	PTN000491174 	J:265628 	
+MGI:2147437	Rrp12	ribosomal RNA processing 12 homolog	19		nucleolus			ISO	Q5JTH9 	J:164563 	
+MGI:2385053	Rrp36	ribosomal RNA processing 36	17		nucleolus			IBA	PTN000497661 	J:265628 	
+MGI:2385053	Rrp36	ribosomal RNA processing 36	17		nucleolus			ISO	Q96EU6 	J:164563 	
+MGI:1929721	Rrs1	ribosome biogenesis regulator 1	1		nucleolus			IBA	PTN000426674 	J:265628 	
+MGI:1929721	Rrs1	ribosome biogenesis regulator 1	1		nucleolus			IDA		J:151167 	
+MGI:1929721	Rrs1	ribosome biogenesis regulator 1	1		nucleolus			ISO	Q15050 	J:164563 	
+MGI:1929628	Rsad2	radical S-adenosyl methionine domain containing 2	12		fibrillar center			ISO	Q8WXG1 	J:164563 	
+MGI:1913659	Rsl1d1	ribosomal L1 domain containing 1	16		nucleolus			IDA		J:117454 	
+MGI:1913659	Rsl1d1	ribosomal L1 domain containing 1	16		nucleolus			ISO	O76021 	J:164563 	
+MGI:2681840	Rsl24d1	ribosomal L24 domain containing 1	9		nucleolus			IBA	PTN000082570 	J:265628 	
+MGI:2681840	Rsl24d1	ribosomal L24 domain containing 1	9		nucleolus			ISO	Q9UHA3 	J:164563 	
+MGI:3027894	Rsph4a	radial spoke head 4 homolog A (Chlamydomonas)	10		nucleolus			ISO	Q5TD94 	J:164563 	
+MGI:1309480	Rtf1	RTF1, Paf1/RNA polymerase II complex component	2		nucleolus			IDA		J:50092 	
+MGI:1913408	Rtl8a	retrotransposon Gag like 8A	X		nucleolus			IBA	PTN000398637 	J:265628 	
+MGI:1920115	Rtl8c	retrotransposon Gag like 8C	X		nucleolus			IBA	PTN000398637 	J:265628 	
+MGI:102672	Runx3	runt related transcription factor 3	4		nucleolus			ISO	Q13761 	J:164563 	
+MGI:109581	S100a13	S100 calcium binding protein A13	3		nucleolus			ISO	Q99584 	J:164563 	
+MGI:1915110	S100a16	S100 calcium binding protein A16	3		nucleolus			ISO	Q96FQ6 	J:117659 J:164563 	
+MGI:1921730	Samd4	sterile alpha motif domain containing 4	14		fibrillar center			ISO	Q9UPU9 	J:164563 	
+MGI:1354709	Sap30l	SAP30-like	11		fibrillar center			ISO	Q9HAJ7 	J:164563 	
+MGI:1354709	Sap30l	SAP30-like	11		nucleolus			ISO	Q9HAJ7 	J:164563 	
+MGI:1919330	Sapcd2	suppressor APC domain containing 2	2		nucleolus			ISO	Q86UD0 	J:164563 	
+MGI:1913961	Sbds	SBDS ribosome maturation factor	5		nucleolus			ISO	Q9Y3A5 	J:164563 	
+MGI:1919443	Scaf11	SR-related CTD-associated factor 11	15		nucleolus			ISO	Q99590 	J:164563 	
+MGI:98239	Scd1	stearoyl-Coenzyme A desaturase 1	19		nucleolus			ISO	O00767 	J:164563 	
+MGI:98240	Scd2	stearoyl-Coenzyme A desaturase 2	19		nucleolus			ISO	O00767 	J:164563 	
+MGI:1353437	Scd3	stearoyl-coenzyme A desaturase 3	19		nucleolus			ISO	O00767 	J:164563 	
+MGI:2670997	Scd4	stearoyl-coenzyme A desaturase 4	19		nucleolus			ISO	O00767 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		nucleolus			ISO	Q14524 	J:164563 	
+MGI:2140779	Sdad1	SDA1 domain containing 1	5		nucleolus			IBA	PTN000296326 	J:265628 	
+MGI:2140779	Sdad1	SDA1 domain containing 1	5		nucleolus			ISO	Q9NVU7 	J:164563 	
+MGI:2385156	Sdcbp2	syndecan binding protein (syntenin) 2	2		nucleolus			ISO	Q9H190 	J:164563 	
+MGI:1914195	Sdha	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	13		nucleolus			ISO	P31040 	J:164563 	
+MGI:1913322	Sdhaf2	succinate dehydrogenase complex assembly factor 2	19		nucleolus			ISO	Q9NX18 	J:164563 	
+MGI:96825	Selenbp1	selenium binding protein 1	3		fibrillar center			ISO	Q13228 	J:164563 	
+MGI:96825	Selenbp1	selenium binding protein 1	3		nucleolus			ISO	Q13228 	J:164563 	
+MGI:104859	Selenbp2	selenium binding protein 2	3		fibrillar center			ISO	Q13228 	J:164563 	
+MGI:104859	Selenbp2	selenium binding protein 2	3		nucleolus			ISO	Q13228 	J:164563 	
+MGI:2158736	Senp3	SUMO/sentrin specific peptidase 3	11		nucleolus			IDA		J:73476 	
+MGI:2158736	Senp3	SUMO/sentrin specific peptidase 3	11		nucleolus			ISO	Q9H4L4 	J:164563 	
+MGI:2443596	Senp5	SUMO/sentrin specific peptidase 5	16		nucleolus			IEA	IPR033465 	J:72247 	
+MGI:2155278	Sesn1	sestrin 1	10		fibrillar center			ISO	Q9Y6P5 	J:164563 	
+MGI:1920501	Setd7	SET domain containing (lysine methyltransferase) 7	3		nucleolus			ISO	Q8WTS6 	J:164563 	
+MGI:1921979	Setmar	SET domain without mariner transposase fusion	6		nucleolus			ISO	Q53H47 	J:164563 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		B-WICH complex			ISO	O75533 	J:164563 	
+MGI:1932339	Sf3b1	splicing factor 3b, subunit 1	1		nucleolus			IC		J:319968 	
+MGI:1289341	Sf3b3	splicing factor 3b, subunit 3	8		nucleolus			ISO	Q15393 	J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		eNoSc complex			ISO	Q96EB6 	J:164563 	
+MGI:2135607	Sirt1	sirtuin 1	10		fibrillar center			ISO	Q96EB6 	J:164563 	
+MGI:1927664	Sirt2	sirtuin 2	7		nucleolus			ISO	Q8IXJ6 	J:164563 	
+MGI:2385849	Sirt7	sirtuin 7	11		nucleolus			ISO	Q9NRC8 	J:164563 	
+MGI:2385849	Sirt7	sirtuin 7	11		nucleolus organizer region			ISO	Q9NRC8 	J:164563 	
+MGI:102780	Six1	sine oculis-related homeobox 1	12		nucleolus			ISO	Q15475 	J:164563 	
+MGI:1351663	Skp2	S-phase kinase-associated protein 2	15		nucleolus			ISO	Q13309 	J:164563 	
+MGI:108402	Slbp	stem-loop binding protein	5		nucleolus			ISO	Q14493 	J:164563 	
+MGI:1916298	Slc30a5	solute carrier family 30 (zinc transporter), member 5	13		nucleolus			ISO	Q8TAD4 	J:164563 	
+MGI:1100518	Smad7	SMAD family member 7	18		fibrillar center			ISO	O15105 	J:164563 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9		fibrillar center			ISO	P51532 	J:164563 	
+MGI:88192	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	9	NOT	nucleolus			IDA		J:55698 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		B-WICH complex			ISO	O60264 	J:164563 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		fibrillar center			ISO	O60264 	J:164563 	
+MGI:1935129	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	8		nucleolus			IC		J:111312 J:319968 	
+MGI:1328366	Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	10		fibrillar center			ISO	Q12824 	J:164563 	
+MGI:1328366	Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	10		nucleolus			ISO	Q12824 	J:164563 	
+MGI:106067	Smc2	structural maintenance of chromosomes 2	4		nucleolus			ISO	O95347 	J:164563 	
+MGI:2144117	Smg6	SMG6 nonsense mediated mRNA decay factor	11		nucleolus			ISO	Q86US8 	J:164563 	
+MGI:109257	Smn1	survival motor neuron 1	13		nucleolus			ISO	RGD:620755 	J:155856 	
+MGI:1918976	Smug1	single-strand selective monofunctional uracil DNA glycosylase	15		fibrillar center			ISO	Q53HV7 	J:164563 	
+MGI:1918976	Smug1	single-strand selective monofunctional uracil DNA glycosylase	15		nucleolus			ISO	Q53HV7 	J:164563 	
+MGI:1918976	Smug1	single-strand selective monofunctional uracil DNA glycosylase	15		nucleolus			ISS	Q53HV7 	J:83349 	
+MGI:98330	Snai1	snail family zinc finger 1	2		fibrillar center			ISO	O95863 	J:164563 	
+MGI:1922877	Snapc1	small nuclear RNA activating complex, polypeptide 1	12		nucleolus			ISO	Q16533 	J:164563 	
+MGI:1916338	Snapc3	small nuclear RNA activating complex, polypeptide 3	4		nucleolus			ISO	Q92966 	J:164563 	
+MGI:1914282	Snapc5	small nuclear RNA activating complex, polypeptide 5	9		nucleolus			ISO	O75971 	J:164563 	
+MGI:102855	Snord21	small nucleolar RNA, C/D box 21	5		nucleolus			IDA		J:21081 	
+MGI:2387894	Snord87	small nucleolar RNA, C/D box 87	1		nucleolus			ISO	AF396685 	J:78020 	
+MGI:1923417	Snrnp35	small nuclear ribonucleoprotein 35 (U11/U12)	5		nucleolus			ISO	Q16560 	J:164563 	
+MGI:104805	Snrpb2	U2 small nuclear ribonucleoprotein B	2		fibrillar center			ISO	P08579 	J:164563 	
+MGI:893586	Snu13	SNU13 homolog, small nuclear ribonucleoprotein (U4/U6.U5)	15		dense fibrillar component			ISO	P55769 	J:164563 	
+MGI:893586	Snu13	SNU13 homolog, small nuclear ribonucleoprotein (U4/U6.U5)	15		nucleolus			ISO	P55769 	J:164563 	
+MGI:1916274	Snx15	sorting nexin 15	19		nucleolus			ISO	Q9NRS6 	J:164563 	
+MGI:109561	Sp100	nuclear antigen Sp100	1		nucleolus			ISO	P23497 	J:164563 	
+MGI:3702467	Sp140	Sp140 nuclear body protein	1		fibrillar center			ISO	Q13342 	J:164563 	
+MGI:2146885	Spata2	spermatogenesis associated 2	2		fibrillar center			ISO	Q9UM82 	J:164563 	
+MGI:1914448	Spats2l	spermatogenesis associated, serine-rich 2-like	1		nucleolus			ISO	Q9NUQ6 	J:164563 	
+MGI:1914879	Spc24	SPC24, NDC80 kinetochore complex component, homolog (S. cerevisiae)	9		nucleolus			ISO	Q8NBT2 	J:164563 	
+MGI:2442356	Specc1	sperm antigen with calponin homology and coiled-coil domains 1	11		fibrillar center			ISO	Q5M775 	J:164563 	
+MGI:2444989	Spg11	SPG11, spatacsin vesicle trafficking associated	2		nucleolus			ISO	Q96JI7 	J:164563 	
+MGI:109242	Spin1	spindlin 1	13		nucleolus			ISO	Q9Y657 	J:164563 	
+MGI:3582583	Sprn	shadow of prion protein	7		nucleolus			IDA		J:199036 	
+MGI:98388	Sptbn1	spectrin beta, non-erythrocytic 1	11		nucleolus			ISO	Q01082 	J:164563 	
+MGI:2142062	Spty2d1	SPT2 chromatin protein domain containing 1	7		nucleolus			IBA	PTN000505877 	J:265628 	
+MGI:2142062	Spty2d1	SPT2 chromatin protein domain containing 1	7		nucleolus			ISO	Q68D10 	J:164563 	
+MGI:1913634	Srp19	signal recognition particle 19	18		nucleolus			ISO	P09132 	J:73065 	
+MGI:1346087	Srp54a	signal recognition particle 54A	12	NOT	nucleolus			ISO	P61011 	J:73065 	
+MGI:1917447	Srp68	signal recognition particle 68	11		nucleolus			ISO	NP_055045 	J:73065 	
+MGI:1333795	Srp72	signal recognition particle 72	5		nucleolus			ISO	O15302 	J:73065 	
+MGI:1201408	Srpk2	serine/arginine-rich protein specific kinase 2	5		nucleolus			ISO	P78362 	J:164563 	
+MGI:98287	Srsf5	serine and arginine-rich splicing factor 5	12		nucleolus			ISO	Q13243 	J:164563 	
+MGI:104896	Srsf9	serine and arginine-rich splicing factor 9	5		nucleolus			ISO	Q13242 	J:164563 	
+MGI:1098583	Stag2	stromal antigen 2	X		fibrillar center			ISO	Q8N3U4 	J:164563 	
+MGI:1098583	Stag2	stromal antigen 2	X		nucleolus			ISO	Q8N3U4 	J:164563 	
+MGI:1355311	Stag3	stromal antigen 3	5		nucleolus			ISO	Q9UJ98 	J:164563 	
+MGI:103063	Stat1	signal transducer and activator of transcription 1	1		nucleolus			ISO	P42224 	J:164563 	
+MGI:2385007	Stk24	serine/threonine kinase 24	14		nucleolus			ISO	Q9Y6E0 	J:164563 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		fibrillar center			ISO	Q9H668 	J:164563 	
+MGI:1918272	Ston2	stonin 2	12		nucleolus			ISO	Q8WXE9 	J:164563 	
+MGI:2684909	Stox1	storkhead box 1	10		fibrillar center			ISO	Q6ZVD7 	J:164563 	
+MGI:104811	Sub1	SUB1 homolog, transcriptional regulator	15		nucleolus			ISO	P53999 	J:164563 	
+MGI:1197010	Sumo1	small ubiquitin-like modifier 1	1		fibrillar center			ISO	RGD:1306919 	J:155856 	
+MGI:1197010	Sumo1	small ubiquitin-like modifier 1	1		nucleolus			ISO	P63165 	J:164563 	
+MGI:1924303	Sun1	Sad1 and UNC84 domain containing 1	5	NOT	nucleolus			IDA		J:76035 	
+MGI:98444	Surf2	surfeit gene 2	2		nucleolus			ISO	Q15527 	J:164563 	
+MGI:98447	Surf6	surfeit gene 6	2		granular component			IDA		J:32572 	
+MGI:98447	Surf6	surfeit gene 6	2		nucleolus			IBA	PTN000372642 	J:265628 	
+MGI:98447	Surf6	surfeit gene 6	2		nucleolus	is a part of oocyte		IDA		J:114487 	
+MGI:98447	Surf6	surfeit gene 6	2		nucleolus			ISO	O75683 	J:164563 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		eNoSc complex			ISO	O43463 	J:164563 	
+MGI:1099440	Suv39h1	suppressor of variegation 3-9 1	X		nucleolus			ISO	O43463 	J:164563 	
+MGI:1261758	Suz12	SUZ12 polycomb repressive complex 2 subunit	11		nucleolus			ISO	Q15022 	J:164563 	
+MGI:1927152	Syne1	spectrin repeat containing, nuclear envelope 1	10		nucleolus			ISO	Q8NF91 	J:164563 	
+MGI:1336878	Taf1	TATA-box binding protein associated factor 1	X	colocalizes_with	nucleolus			ISO	P21675 	J:164563 	
+MGI:109578	Taf1a	TATA-box binding protein associated factor, RNA polymerase I, A	1		RNA polymerase I transcription regulator complex			TAS		J:39012 	
+MGI:109578	Taf1a	TATA-box binding protein associated factor, RNA polymerase I, A	1		RNA polymerase transcription factor SL1 complex			IPI	P29037 	J:245730 	
+MGI:109577	Taf1b	TATA-box binding protein associated factor, RNA polymerase I, B	12		nucleolus			ISO	Q53T94 	J:164563 	
+MGI:109577	Taf1b	TATA-box binding protein associated factor, RNA polymerase I, B	12		RNA polymerase I core factor complex			IBA	PTN001586581 	J:265628 	
+MGI:109577	Taf1b	TATA-box binding protein associated factor, RNA polymerase I, B	12		RNA polymerase I core factor complex			ISO	Q53T94 	J:164563 	
+MGI:109577	Taf1b	TATA-box binding protein associated factor, RNA polymerase I, B	12		RNA polymerase I transcription regulator complex			TAS		J:39012 	
+MGI:109577	Taf1b	TATA-box binding protein associated factor, RNA polymerase I, B	12		RNA polymerase transcription factor SL1 complex			IBA	PTN001586581 	J:265628 	
+MGI:109576	Taf1c	TATA-box binding protein associated factor, RNA polymerase I, C	8		fibrillar center			IBA	PTN001809025 	J:265628 	
+MGI:109576	Taf1c	TATA-box binding protein associated factor, RNA polymerase I, C	8		fibrillar center			ISO	Q15572 	J:164563 	
+MGI:109576	Taf1c	TATA-box binding protein associated factor, RNA polymerase I, C	8		nucleolus			ISO	Q15572 	J:164563 	
+MGI:109576	Taf1c	TATA-box binding protein associated factor, RNA polymerase I, C	8		RNA polymerase I transcription regulator complex			TAS		J:39012 	
+MGI:109576	Taf1c	TATA-box binding protein associated factor, RNA polymerase I, C	8		RNA polymerase transcription factor SL1 complex			IPI	P29037 	J:245730 	
+MGI:1922566	Taf1d	TATA-box binding protein associated factor, RNA polymerase I, D	9		nucleolus			ISO	Q9H5J8 	J:164563 	
+MGI:1922566	Taf1d	TATA-box binding protein associated factor, RNA polymerase I, D	9		RNA polymerase transcription factor SL1 complex			IEA	IPR027976 	J:72247 	
+MGI:2152345	Taf4b	TATA-box binding protein associated factor 4b	18		fibrillar center			ISO	Q92750 	J:164563 	
+MGI:1913500	Taf13	TATA-box binding protein associated factor 13	3		nucleolus			ISO	Q15543 	J:164563 	
+MGI:1915919	Taok2	TAO kinase 2	7		nucleolus			ISO	Q9UL54 	J:164563 	
+MGI:1923531	Tax1bp3	Tax1 (human T cell leukemia virus type I) binding protein 3	11		fibrillar center			ISO	O14907 	J:164563 	
+MGI:107549	Tbca	tubulin cofactor A	13		nucleolus			ISO	O75347 	J:164563 	
+MGI:2384863	Tbl3	transducin (beta)-like 3	17		nucleolus			IBA	PTN000457905 	J:265628 	
+MGI:2384863	Tbl3	transducin (beta)-like 3	17		nucleolus			ISO	Q12788 	J:164563 	
+MGI:101838	Tbp	TATA box binding protein	17		RNA polymerase I transcription regulator complex			TAS		J:39012 	
+MGI:101838	Tbp	TATA box binding protein	17		RNA polymerase transcription factor SL1 complex			IPI	P97357 	J:245730 	
+MGI:101838	Tbp	TATA box binding protein	17		RNA polymerase transcription factor SL1 complex			IPI	Q6PDZ2 	J:245730 	
+MGI:1196624	Tcea1	transcription elongation factor A (SII) 1	1		nucleolus			ISO	P23193 	J:164563 	
+MGI:1916318	Tcim	transcriptional and immune response regulator	8		nucleolus			ISO	Q9NR00 	J:164563 	
+MGI:892003	Tcof1	treacle ribosome biogenesis factor 1	18		fibrillar center			ISO	Q13428 	J:164563 	
+MGI:892003	Tcof1	treacle ribosome biogenesis factor 1	18		nucleolus			IBA	PTN001073398 	J:265628 	
+MGI:892003	Tcof1	treacle ribosome biogenesis factor 1	18		nucleolus			ISO	Q13428 	J:73065 	
+MGI:2682295	Tent4a	terminal nucleotidyltransferase 4A	13		nucleolus			IBA	PTN000558564 	J:265628 	
+MGI:1917820	Tent4b	terminal nucleotidyltransferase 4B	8		nucleolus			IBA	PTN000558564 	J:265628 	
+MGI:1917820	Tent4b	terminal nucleotidyltransferase 4B	8		nucleolus			ISO	Q8NDF8 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		fibrillar center			ISO	P54274 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		nucleolus			ISO	P54274 	J:164563 	
+MGI:1202709	Tert	telomerase reverse transcriptase	13		nucleolus			ISO	O14746 	J:164563 	
+MGI:1930075	Tfip11	tuftelin interacting protein 11	5		nucleolus			ISO	Q9UBB9 	J:164563 	
+MGI:1921004	Thap1	THAP domain containing, apoptosis associated protein 1	8		fibrillar center			ISO	Q9NVV9 	J:164563 	
+MGI:1914066	Thap2	THAP domain containing, apoptosis associated protein 2	10		nucleolus			ISO	Q9H0W7 	J:164563 	
+MGI:1277973	Thumpd3	THUMP domain containing 3	6		nucleolus			ISO	Q9BV44 	J:164563 	
+MGI:1353432	Timm13	translocase of inner mitochondrial membrane 13	10		fibrillar center			ISO	Q9Y5L4 	J:164563 	
+MGI:1343262	Timm44	translocase of inner mitochondrial membrane 44	8		fibrillar center			ISO	O43615 	J:164563 	
+MGI:1913532	Tma16	translation machinery associated 16	8		nucleolus			ISO	Q96EY4 	J:164563 	
+MGI:1914956	Tmem179b	transmembrane protein 179B	19		nucleolus			ISO	Q7Z7N9 	J:164563 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		dense fibrillar component			ISO	RGD:621246 	J:155856 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		fibrillar center			ISO	RGD:621246 	J:155856 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		fibrillar center			ISO	P11387 	J:164563 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		nucleolus			IBA	PTN000033230 	J:265628 	
+MGI:98788	Top1	topoisomerase (DNA) I	2		nucleolus			ISO	P11387 	J:164563 	
+MGI:98790	Top2a	topoisomerase (DNA) II alpha	11		nucleolus			IDA		J:74600 	
+MGI:98790	Top2a	topoisomerase (DNA) II alpha	11		nucleolus			ISO	RGD:62048 	J:155856 	
+MGI:1933972	Tra2a	transformer 2 alpha	6		nucleolus			ISO	Q13595 	J:164563 	
+MGI:1202880	Traf4	TNF receptor associated factor 4	11		fibrillar center			ISO	Q9BUZ4 	J:164563 	
+MGI:3042141	Traf7	TNF receptor-associated factor 7	17		nucleolus			IBA	PTN000457354 	J:265628 	
+MGI:1096377	Traip	TRAF-interacting protein	9		nucleolus			ISO	Q9BWF2 	J:164563 	
+MGI:2442086	Trerf1	transcriptional regulating factor 1	17		fibrillar center			ISO	Q96PN7 	J:164563 	
+MGI:109275	Trim24	tripartite motif-containing 24	6	NOT	nucleolus			IDA		J:55698 	
+MGI:97904	Trim27	tripartite motif-containing 27	13		fibrillar center			ISO	P14373 	J:164563 	
+MGI:97904	Trim27	tripartite motif-containing 27	13		nucleolus			ISO	P14373 	J:164563 	
+MGI:109274	Trim28	tripartite motif-containing 28	7	NOT	nucleolus			IDA		J:58506 	
+MGI:2384814	Trim41	tripartite motif-containing 41	11		nucleolus			ISO	Q8WV44 	J:164563 	
+MGI:2142077	Trim68	tripartite motif-containing 68	7		nucleolus			ISO	Q6AZZ1 	J:164563 	
+MGI:1920421	Trmt10a	tRNA methyltransferase 10A	3		nucleolus			ISO	Q8TBZ6 	J:164563 	
+MGI:98834	Trp53	transformation related protein 53	11		nucleolus			ISO	P04637 	J:164563 	
+MGI:1926609	Trp53inp1	transformation related protein 53 inducible nuclear protein 1	4	NOT	nucleolus			IDA		J:72788 	
+MGI:1920853	Trp53tg5	transformation related protein 53 target 5	2		nucleolus			ISO	Q9Y2B4 	J:164563 	
+MGI:106581	Tsg101	tumor susceptibility gene 101	7		nucleolus			ISO	Q99816 	J:164563 	
+MGI:1298395	Tspyl1	testis-specific protein, Y-encoded-like 1	10		nucleolus			ISO	Q9H0U9 	J:164563 	
+MGI:106244	Tspyl2	TSPY-like 2	X		nucleolus			ISO	Q9H2G4 	J:164563 	
+MGI:1276539	Ttc3	tetratricopeptide repeat domain 3	16		nucleolus			ISO	P53804 	J:164563 	
+MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	2		nucleolus			IBA	PTN002929018 	J:265628 	
+MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	2		nucleolus			ISO	Q15361 	J:164563 	
+MGI:1329045	Tulp3	tubby-like protein 3	6		nucleolus			ISO	O75386 	J:164563 	
+MGI:1917294	Tut1	terminal uridylyl transferase 1, U6 snRNA-specific	19		nucleolus			ISO	Q9H6E5 	J:164563 	
+MGI:2445126	Tut4	terminal uridylyl transferase 4	4		nucleolus			ISO	Q5TAX3 	J:164563 	
+MGI:104685	Twist2	twist basic helix-loop-helix transcription factor 2	1		nucleolus			ISO	Q8WVJ9 	J:164563 	
+MGI:1929468	Txn2	thioredoxin 2	15		nucleolus			ISO	Q99757 	J:164563 	
+MGI:1354175	Txnrd1	thioredoxin reductase 1	10		fibrillar center			ISO	Q16881 	J:164563 	
+MGI:98878	Tyms	thymidylate synthase	5		nucleolus			ISO	RGD:3921 	J:155856 	
+MGI:1344410	Ubd	ubiquitin D	17		fibrillar center			ISO	O15205 	J:164563 	
+MGI:1934835	Ube2n	ubiquitin-conjugating enzyme E2N	10		fibrillar center			ISO	P61088 	J:164563 	
+MGI:1914446	Ube2t	ubiquitin-conjugating enzyme E2T	1		nucleolus			ISO	Q9NPD8 	J:164563 	
+MGI:1933105	Ublcp1	ubiquitin-like domain containing CTD phosphatase 1	11		nucleolus			ISO	Q8WVY7 	J:164563 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		fibrillar center			ISO	RGD:3927 	J:155856 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		fibrillar center			ISO	P17480 	J:164563 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		nucleolus		PR:P25976-2	IDA		J:146000 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		nucleolus			IDA		J:71817 J:84783 J:87744 J:99711 J:100984 J:158988 J:162045 	
+MGI:98512	Ubtf	upstream binding transcription factor, RNA polymerase I	11		nucleolus			ISO	P17480 	J:164563 	
+MGI:1337129	Ubxn8	UBX domain protein 8	8		nucleolus			ISO	O00124 	J:164563 	
+MGI:1914848	Uchl5	ubiquitin carboxyl-terminal esterase L5	1		nucleolus			ISO	Q9Y5K5 	J:164563 	
+MGI:1914281	Upf3a	UPF3 regulator of nonsense transcripts homolog A (yeast)	8		nucleolus			IBA	PTN000318879 	J:265628 	
+MGI:1915384	Upf3b	UPF3 regulator of nonsense transcripts homolog B (yeast)	X		nucleolus			IBA	PTN000318879 	J:265628 	
+MGI:1915384	Upf3b	UPF3 regulator of nonsense transcripts homolog B (yeast)	X		nucleolus			ISO	Q9BZI7 	J:164563 	
+MGI:2146468	Urb1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae)	16		fibrillar center			ISO	O60287 	J:164563 	
+MGI:2146468	Urb1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae)	16		nucleolus			IBA	PTN000337405 	J:265628 	
+MGI:2146468	Urb1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae)	16		nucleolus			ISO	O60287 	J:164563 	
+MGI:2681124	Urb2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae)	8		nucleolus			IBA	PTN001437627 	J:265628 	
+MGI:2681124	Urb2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae)	8		nucleolus			ISO	Q14146 	J:164563 	
+MGI:1929095	Uso1	USO1 vesicle docking factor	5		fibrillar center			ISO	O60763 	J:164563 	
+MGI:1919594	Usp36	ubiquitin specific peptidase 36	11		nucleolus			ISO	Q9P275 	J:164563 	
+MGI:1919230	Utp3	UTP3 small subunit processome component	5		nucleolus			IBA	PTN000326128 	J:265628 	
+MGI:1919230	Utp3	UTP3 small subunit processome component	5		nucleolus			ISO	Q9NQZ2 	J:164563 	
+MGI:1096573	Utp4	UTP4 small subunit processome component	8		fibrillar center			ISO	Q969X6 	J:164563 	
+MGI:1096573	Utp4	UTP4 small subunit processome component	8		nucleolus			ISO	Q969X6 	J:164563 	
+MGI:1096573	Utp4	UTP4 small subunit processome component	8		t-UTP complex			IBA	PTN000520350 	J:265628 	
+MGI:1096573	Utp4	UTP4 small subunit processome component	8		t-UTP complex			ISO	Q969X6 	J:164563 	
+MGI:2445193	Utp6	UTP6 small subunit processome component	11		nucleolus			ISO	Q9NYH9 	J:164563 	
+MGI:2445193	Utp6	UTP6 small subunit processome component	11		Pwp2p-containing subcomplex of 90S preribosome			IBA	PTN000588427 	J:265628 	
+MGI:1914455	Utp11	UTP11 small subunit processome component	4		nucleolus			IBA	PTN000303342 	J:265628 	
+MGI:1914455	Utp11	UTP11 small subunit processome component	4		nucleolus			ISO	Q9Y3A2 	J:164563 	
+MGI:1919804	Utp14a	UTP14A small subunit processome component	X		nucleolus			IBA	PTN000365650 	J:265628 	
+MGI:1919804	Utp14a	UTP14A small subunit processome component	X		nucleolus			ISO	Q5TAP6 	J:164563 	
+MGI:1919804	Utp14a	UTP14A small subunit processome component	X		nucleolus			ISO	Q9BVJ6 	J:164563 	
+MGI:2445092	Utp14b	UTP14B small subunit processome component	1		nucleolus			IBA	PTN000365650 	J:265628 	
+MGI:2445092	Utp14b	UTP14B small subunit processome component	1		nucleolus			ISO	Q5TAP6 	J:164563 	
+MGI:2445092	Utp14b	UTP14B small subunit processome component	1		nucleolus			ISO	Q9BVJ6 	J:164563 	
+MGI:2145443	Utp15	UTP15 small subunit processome component	13		fibrillar center			ISO	Q8TED0 	J:164563 	
+MGI:2145443	Utp15	UTP15 small subunit processome component	13		nucleolus			IBA	PTN000460500 	J:265628 	
+MGI:2145443	Utp15	UTP15 small subunit processome component	13		nucleolus			ISO	Q8TED0 	J:164563 	
+MGI:1923402	Utp18	UTP18 small subunit processome component	11		nucleolus			ISO	Q9Y5J1 	J:164563 	
+MGI:1923402	Utp18	UTP18 small subunit processome component	11		Pwp2p-containing subcomplex of 90S preribosome			IBA	PTN000427904 	J:265628 	
+MGI:1917933	Utp20	UTP20 small subunit processome component	10		nucleolus			IBA	PTN000427367 	J:265628 	
+MGI:1917933	Utp20	UTP20 small subunit processome component	10		nucleolus			ISO	O75691 	J:164563 	
+MGI:1925831	Utp23	UTP23 small subunit processome component	15		nucleolus			IBA	PTN000275941 	J:265628 	
+MGI:2138080	Utp25	UTP25 small subunit processome component	1		nucleolus			IBA	PTN000309515 	J:265628 	
+MGI:2138080	Utp25	UTP25 small subunit processome component	1		nucleolus			ISO	Q68CQ4 	J:164563 	
+MGI:103076	Vdr	vitamin D (1,25-dihydroxyvitamin D3) receptor	15		dense fibrillar component			ISO	RGD:3959 	J:155856 	
+MGI:103223	Vhl	von Hippel-Lindau tumor suppressor	6		nucleolus			IDA		J:100984 	
+MGI:1923159	Vmp1	vacuole membrane protein 1	11		nucleolus			ISO	Q96GC9 	J:164563 	
+MGI:1915755	Vps51	VPS51 GARP complex subunit	19		nucleolus			ISO	Q9UID3 	J:164563 	
+MGI:1261847	Vrk1	vaccinia related kinase 1	12		nucleolus			ISO	Q99986 	J:164563 	
+MGI:2182465	Vrk3	vaccinia related kinase 3	7		nucleolus			ISO	Q8IV63 	J:164563 	
+MGI:106463	Washc2	WASH complex subunit 2	6		nucleolus			ISO	Q641Q2 	J:164563 	
+MGI:106463	Washc2	WASH complex subunit 2	6		nucleolus			ISO	Q9Y4E1 	J:164563 	
+MGI:1891823	Wbp11	WW domain binding protein 11	6	NOT	nucleolus			IDA		J:88011 	
+MGI:1916618	Wdfy1	WD repeat and FYVE domain containing 1	1		nucleolus			ISO	Q8IWB7 	J:164563 	
+MGI:1096875	Wdfy3	WD repeat and FYVE domain containing 3	5		nucleolus			ISO	Q8IZQ1 	J:164563 	
+MGI:2443143	Wdr3	WD repeat domain 3	3		nucleolus			ISO	Q9UNX4 	J:164563 	
+MGI:2443143	Wdr3	WD repeat domain 3	3		Pwp2p-containing subcomplex of 90S preribosome			IBA	PTN000457800 	J:265628 	
+MGI:1927241	Wdr12	WD repeat domain 12	1		nucleolus			ISO	Q9GZL7 	J:164563 	
+MGI:1927241	Wdr12	WD repeat domain 12	1		PeBoW complex			IBA	PTN000458044 	J:265628 	
+MGI:1927241	Wdr12	WD repeat domain 12	1		PeBoW complex			ISO	Q9GZL7 	J:73065 	
+MGI:1921570	Wdr33	WD repeat domain 33	18		fibrillar center			ISO	Q9C0J8 	J:164563 	
+MGI:1917819	Wdr36	WD repeat domain 36	18		nucleolus			ISO	Q8NI36 	J:164563 	
+MGI:1917819	Wdr36	WD repeat domain 36	18		Pwp2p-containing subcomplex of 90S preribosome			IBA	PTN000356653 	J:265628 	
+MGI:1919765	Wdr43	WD repeat domain 43	17		fibrillar center			ISO	Q15061 	J:164563 	
+MGI:1919765	Wdr43	WD repeat domain 43	17		nucleolus			IBA	PTN002337170 	J:265628 	
+MGI:1919765	Wdr43	WD repeat domain 43	17		nucleolus			IDA		J:278445 	
+MGI:1919765	Wdr43	WD repeat domain 43	17		nucleolus			ISO	Q15061 	J:164563 	
+MGI:1931871	Wdr46	WD repeat domain 46	17		nucleolus			IBA	PTN000363163 	J:265628 	
+MGI:1931871	Wdr46	WD repeat domain 46	17		nucleolus			ISO	O15213 	J:164563 	
+MGI:1915186	Wdr55	WD repeat domain 55	18		nucleolus			IMP		J:149188 	
+MGI:1915186	Wdr55	WD repeat domain 55	18		nucleolus			ISO	Q9H6Y2 	J:164563 	
+MGI:2147427	Wdr74	WD repeat domain 74	19		nucleolus			IBA	PTN000411359 	J:265628 	
+MGI:2147427	Wdr74	WD repeat domain 74	19	colocalizes_with	nucleolus			ISO	Q6RFH5 	J:164563 	
+MGI:2147427	Wdr74	WD repeat domain 74	19		nucleolus			ISO	Q6RFH5 	J:164563 	
+MGI:1920924	Wdr75	WD repeat domain 75	1		nucleolus			IBA	PTN001109634 	J:265628 	
+MGI:1920924	Wdr75	WD repeat domain 75	1		nucleolus			ISO	Q8IWA0 	J:164563 	
+MGI:1924555	Wdr82	WD repeat domain containing 82	9		nucleolus			ISO	Q6UXN9 	J:164563 	
+MGI:103075	Wee1	WEE 1 homolog 1 (S. pombe)	7		nucleolus			ISO	P30291 	J:164563 	
+MGI:1332638	Wiz	widely-interspaced zinc finger motifs	17	NOT	nucleolus			IDA		J:114884 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8	NOT	nucleolus			IDA		J:69659 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		nucleolus			ISO	Q14191 	J:69659 J:73065 	
+MGI:103557	Xpc	xeroderma pigmentosum, complementation group C	6		nucleolus			ISO	Q01831 	J:164563 	
+MGI:2144013	Xpo1	exportin 1	11		nucleolus			ISO	O14980 	J:164563 	
+MGI:2429950	Xpo6	exportin 6	7		nucleolus			ISO	Q96QU8 	J:164563 	
+MGI:99137	Xrcc1	X-ray repair complementing defective repair in Chinese hamster cells 1	7		nucleolus			ISO	P18887 	J:164563 	
+MGI:104517	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	1		nucleolus			ISO	P13010 	J:164563 	
+MGI:95606	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6	15		nucleolus			ISO	P12956 	J:164563 	
+MGI:894687	Xrn2	5'-3' exoribonuclease 2	2		nucleolus			ISO	Q9H0D6 	J:164563 	
+MGI:3828086	Zbed6	zinc finger, BED type containing 6	1		nucleolus			IDA		J:156708 	
+MGI:1195345	Zbtb14	zinc finger and BTB domain containing 14	17		nucleolus			ISO	O43829 	J:164563 	
+MGI:1927290	Zbtb33	zinc finger and BTB domain containing 33	X		nucleolus			ISO	Q86T24 	J:164563 	
+MGI:1919824	Zc3h14	zinc finger CCCH type containing 14	12		nucleolus			ISO	Q6PJT7 	J:164563 	
+MGI:1926046	Zcchc4	zinc finger, CCHC domain containing 4	5		nucleolus			IBA	PTN002298317 	J:265628 	
+MGI:1926046	Zcchc4	zinc finger, CCHC domain containing 4	5		nucleolus			ISO	Q9H5U6 	J:164563 	
+MGI:2442912	Zcchc7	zinc finger, CCHC domain containing 7	4		nucleolus			ISO	Q8N3Z6 	J:164563 	
+MGI:1916335	Zcchc9	zinc finger, CCHC domain containing 9	13		nucleolus			ISO	Q8N567 	J:164563 	
+MGI:1919955	Zcchc17	zinc finger, CCHC domain containing 17	4		nucleolus			IDA		J:80171 	
+MGI:1344407	Zeb2	zinc finger E-box binding homeobox 2	2		nucleolus			ISO	O60315 	J:164563 	
+MGI:99200	Zfp53	zinc finger protein 53	17		nucleolus			ISO	Q96RE9 	J:164563 	
+MGI:104854	Zfp91	zinc finger protein 91	19		nucleolus			ISO	Q96JP5 	J:164563 	
+MGI:1347092	Zfp146	zinc finger protein 146	7		nucleolus			ISO	Q15072 	J:164563 	
+MGI:2686600	Zfp174	zinc finger protein 174	16		fibrillar center			ISO	Q15697 	J:164563 	
+MGI:1933401	Zfp202	zinc finger protein 202	9		nucleolus			ISO	O95125 	J:164563 	
+MGI:1340045	Zfp207	zinc finger protein 207	11		nucleolus			ISO	O43670 	J:164563 	
+MGI:1353574	Zfp330	zinc finger protein 330	8		nucleolus			ISO	Q9Y3S2 	J:164563 	
+MGI:1349417	Zfp346	zinc finger protein 346	13		nucleolus			IDA		J:57775 J:71817 	
+MGI:1349417	Zfp346	zinc finger protein 346	13		nucleolus			ISO	Q9UL40 	J:164563 	
+MGI:103172	Zfp354a	zinc finger protein 354A	11		nucleolus			ISO	RGD:2967 	J:155856 	
+MGI:103172	Zfp354a	zinc finger protein 354A	11		nucleolus			ISO	O60765 	J:164563 	
+MGI:1916506	Zfp397	zinc finger protein 397	18		nucleolus			ISO	Q8NF99 	J:164563 	
+MGI:3040701	Zfp459	zinc finger protein 459	13		nucleolus			ISO	Q5JVG8 	J:164563 	
+MGI:1915290	Zfp593	zinc finger protein 593	4		nucleolus			ISO	O00488 	J:164563 	
+MGI:1289282	Zfp622	zinc finger protein 622	15		nucleolus			ISO	Q969S3 	J:164563 	
+MGI:1919861	Zfp655	zinc finger protein 655	5		nucleolus			ISO	Q8N720 	J:164563 	
+MGI:3053207	Zfp677	zinc finger protein 677	17		nucleolus			ISO	Q96RE9 	J:164563 	
+MGI:2144276	Zfp692	zinc finger protein 692	11		nucleolus			ISO	Q9BU19 	J:164563 	
+MGI:1917180	Zfp715	zinc finger protein 715	7		nucleolus			ISO	Q9Y473 	J:164563 	
+MGI:2385044	Zfp758	zinc finger protein 758	17		nucleolus			ISO	Q96RE9 	J:164563 	
+MGI:2442050	Zfp771	zinc finger protein 771	7		nucleolus			ISO	Q7L3S4 	J:164563 	
+MGI:1920479	Zfp983	zinc finger protein 983	17		nucleolus			ISO	Q96RE9 	J:164563 	
+MGI:99211	Zfx	zinc finger protein X-linked	X		nucleolus			ISO	P08048 	J:164563 	
+MGI:99211	Zfx	zinc finger protein X-linked	X		nucleolus			ISO	P17010 	J:164563 	
+MGI:99212	Zfy1	zinc finger protein 1, Y-linked	Y		nucleolus			ISO	P08048 	J:164563 	
+MGI:99213	Zfy2	zinc finger protein 2, Y-linked	Y		nucleolus			ISO	P08048 	J:164563 	
+MGI:1195270	Zmat3	zinc finger matrin type 3	3		nucleolus			ISO	RGD:620134 	J:155856 	
+MGI:1196246	Znrf2	zinc and ring finger 2	6		fibrillar center			ISO	Q8NHG8 	J:164563 	
+MGI:1330262	Zpr1	ZPR1 zinc finger	9		nucleolus			ISO	O75312 	J:164563 	
+MGI:103287	Zrsr2	zinc finger (CCCH type), RNA binding motif and serine/arginine rich 2	X		nucleolus			IDA		J:71817 	
+MGI:1920453	Zzz3	zinc finger, ZZ domain containing 3	3		nucleolus			ISO	Q8IYH5 	J:164563 	
+
